@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ai.assistant" version="1.0.0"
+        xmlns="http://www.w3.org/ns/widgets"
+        xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+    <name>VoiceTranslator</name>
+    <description>Voice Translator App using Django backend</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+
+    <!-- Основна сторінка -->
+    <content src="index.html" />
+
+    <!-- Allow navigation and intents -->
+    <allow-navigation href="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <!-- Властивості Android -->
+    <platform name="android">
+        <!-- Зберігання файлів у сумісному режимі -->
+        <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+
+        <!-- Запит дозволів -->
+        <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-permission">
+            <uses-permission android:name="android.permission.RECORD_AUDIO" />
+            <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+            <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+            <uses-permission android:name="android.permission.INTERNET" />
+        </edit-config>
+
+        <!-- Дозволяємо JavaScript доступ до файлів -->
+        <preference name="android-targetSdkVersion" value="33" />
+        <preference name="DisallowOverscroll" value="true" />
+    </platform>
+
+    <!-- Платформа браузера -->
+    <platform name="browser">
+        <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    </platform>
+
+    <!-- Плагіни, які використовуємо -->
+    <plugin name="cordova-plugin-media" spec="^5.0.4" />
+    <plugin name="cordova-plugin-file" spec="^6.0.2" />
+    <plugin name="cordova-plugin-media-capture" spec="^3.0.3" />
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.5" />
+    <plugin name="cordova-plugin-audioinput" spec="^2.1.0" />
+
+</widget>
