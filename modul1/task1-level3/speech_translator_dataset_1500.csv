@@ -1,0 +1,1501 @@
+ID,Input_Text,Input_Language,Target_Language,Translated_Text,Context,Sentence_Length,Intent
+1,Quel est le mot de passe Wi-Fi ?,fr,uk,Який у вас пароль Wi-Fi?,Travel,Medium,Translate
+2,Puis-je payer par carte ?,fr,uk,Чи можу я оплатити карткою?,Travel,Medium,Translate
+3,What time is it now?,en,fr,Quelle heure est-il maintenant ?,Casual,Medium,Request
+4,Do you have any discounts?,en,uk,Чи є у вас знижки?,Technical,Medium,Translate
+5,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Travel,Short,Translate
+6,¿Cómo llegar a la estación de tren?,es,fr,Comment aller à la gare ?,Travel,Medium,Translate
+7,Where is the nearest pharmacy?,en,es,¿Dónde está la farmacia más cercana?,Travel,Medium,Inform
+8,Avez-vous des réductions ?,fr,en,Do you have any discounts?,Casual,Short,Request
+9,How far is the airport?,en,uk,Як далеко до аеропорту?,Technical,Medium,Inform
+10,How much does it cost?,en,uk,Скільки це коштує?,Formal,Medium,Clarify
+11,Où puis-je trouver un hôtel ?,fr,es,¿Dónde puedo encontrar un hotel?,Travel,Medium,Request
+12,How to get to the train station?,en,fr,Comment aller à la gare ?,Emergency,Medium,Translate
+13,"Привіт, як справи?",uk,fr,"Bonjour, comment vas-tu ?",Technical,Short,Request
+14,Merci pour votre attention.,fr,uk,Дякую за вашу увагу.,Travel,Short,Inform
+15,Y a-t-il des places libres au restaurant ?,fr,uk,Чи є вільні місця в ресторані?,Technical,Medium,Clarify
+16,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Travel,Short,Translate
+17,Мені потрібен переклад цього документа.,uk,fr,J'ai besoin d'une traduction de ce document.,Casual,Medium,Request
+18,¿Puedo pagar con tarjeta?,es,en,Can I pay by card?,Formal,Short,Translate
+19,Comment connecter une imprimante à l'ordinateur ?,fr,en,How to connect a printer to the computer?,Technical,Medium,Translate
+20,Де я можу купити квитки на концерт?,uk,fr,Où puis-je acheter des billets pour un concert ?,Technical,Medium,Inform
+21,Чи є у вас знижки?,uk,fr,Avez-vous des réductions ?,Technical,Medium,Inform
+22,Combien ça coûte ?,fr,en,How much does it cost?,Technical,Short,Request
+23,¡Necesito ayuda!,es,uk,Мені потрібна допомога!,Travel,Short,Request
+24,Thank you for your attention.,en,fr,Merci pour votre attention.,Travel,Medium,Translate
+25,Where can I find a hotel?,en,fr,Où puis-je trouver un hôtel ?,Formal,Medium,Inform
+26,"¡Hola, cómo estás?",es,fr,"Bonjour, comment vas-tu ?",Casual,Short,Translate
+27,Me gusta este lugar.,es,fr,J'aime cet endroit.,Technical,Short,Request
+28,Can I try this on?,en,uk,Чи можу я спробувати це?,Technical,Medium,Translate
+29,¿Cómo se llama tu perro?,es,en,What is your dog's name?,Formal,Medium,Request
+30,¿Cuál es la contraseña del Wi-Fi?,es,fr,Quel est le mot de passe Wi-Fi ?,Travel,Medium,Inform
+31,Can I take this to go?,en,fr,Puis-je emporter ceci ?,Emergency,Medium,Inform
+32,I want a cup of coffee.,en,uk,Я хочу чашку кави.,Emergency,Medium,Inform
+33,How long will the repair take?,en,fr,Combien de temps prendra la réparation ?,Casual,Medium,Inform
+34,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Technical,Medium,Inform
+35,Combien ça coûte ?,fr,uk,Скільки це коштує?,Casual,Short,Inform
+36,I want a cup of coffee.,en,es,Quiero una taza de café.,Travel,Medium,Translate
+37,¿A qué distancia está el aeropuerto?,es,fr,À quelle distance est l'aéroport ?,Technical,Medium,Translate
+38,Is there parking here?,en,fr,Y a-t-il un parking ici ?,Technical,Short,Inform
+39,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Formal,Short,Request
+40,"C'est urgent, appelez un médecin !",fr,en,"It's urgent, call a doctor!",Emergency,Medium,Clarify
+41,Y a-t-il des places libres au restaurant ?,fr,en,Are there free seats in the restaurant?,Emergency,Medium,Clarify
+42,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Technical,Medium,Translate
+43,Скільки це коштує?,uk,es,¿Cuánto cuesta?,Emergency,Short,Inform
+44,¿Hay asientos libres en el restaurante?,es,fr,Y a-t-il des places libres au restaurant ?,Formal,Medium,Translate
+45,How do I contact support?,en,fr,Comment contacter le support ?,Casual,Medium,Inform
+46,Can I return this item?,en,es,¿Puedo devolver este artículo?,Travel,Medium,Translate
+47,¿Cuánto cuesta el boleto?,es,en,How much is the ticket?,Travel,Short,Clarify
+48,What is artificial intelligence?,en,fr,Qu'est-ce que l'intelligence artificielle ?,Emergency,Short,Translate
+49,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Travel,Medium,Clarify
+50,Puis-je payer par carte ?,fr,uk,Чи можу я оплатити карткою?,Casual,Medium,Inform
+51,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Emergency,Short,Request
+52,Де найближча аптека?,uk,fr,Où est la pharmacie la plus proche ?,Emergency,Short,Inform
+53,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Technical,Medium,Inform
+54,J'ai besoin d'une traduction de ce document.,fr,es,Necesito una traducción de este documento.,Formal,Medium,Request
+55,Мені потрібна допомога!,uk,en,I need help!,Technical,Short,Translate
+56,Мені подобається це місце.,uk,es,Me gusta este lugar.,Formal,Short,Request
+57,¿Dónde puedo comprar entradas para un concierto?,es,fr,Où puis-je acheter des billets pour un concert ?,Travel,Medium,Inform
+58,Is it raining?,en,uk,Чи йде дощ?,Emergency,Short,Inform
+59,I need help!,en,uk,Мені потрібна допомога!,Casual,Short,Inform
+60,Чи можу я повернути цей товар?,uk,en,Can I return this item?,Formal,Medium,Request
+61,Я хочу чашку кави.,uk,fr,Je veux une tasse de café.,Casual,Short,Translate
+62,¿Cuánto cuesta este libro?,es,uk,Скільки коштує ця книга?,Technical,Short,Translate
+63,Do you have a vegetarian menu?,en,es,¿Tienen menú vegetariano?,Technical,Medium,Inform
+64,Puis-je commander un taxi ?,fr,uk,Чи можу я замовити таксі?,Emergency,Medium,Inform
+65,Чи є тут парковка?,uk,en,Is there parking here?,Formal,Short,Translate
+66,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Technical,Medium,Translate
+67,Puis-je commander un taxi ?,fr,uk,Чи можу я замовити таксі?,Technical,Medium,Translate
+68,I lost my keys.,en,es,Perdí mis llaves.,Technical,Short,Translate
+69,Як дістатися до вокзалу?,uk,fr,Comment aller à la gare ?,Travel,Short,Translate
+70,Дякую за вашу увагу.,uk,en,Thank you for your attention.,Emergency,Short,Request
+71,Combien coûte ce livre ?,fr,uk,Скільки коштує ця книга?,Formal,Medium,Translate
+72,Where is my phone?,en,uk,Де мій телефон?,Formal,Short,Inform
+73,Мені подобається це місце.,uk,es,Me gusta este lugar.,Technical,Short,Inform
+74,Puis-je retourner cet article ?,fr,es,¿Puedo devolver este artículo?,Formal,Medium,Translate
+75,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Technical,Medium,Request
+76,Чи можу я повернути цей товар?,uk,es,¿Puedo devolver este artículo?,Emergency,Medium,Translate
+77,Де найближча аптека?,uk,en,Where is the nearest pharmacy?,Technical,Short,Request
+78,Qu'est-ce que l'intelligence artificielle ?,fr,es,¿Qué es la inteligencia artificial?,Travel,Medium,Request
+79,Чи є тут парковка?,uk,fr,Y a-t-il un parking ici ?,Travel,Short,Translate
+80,¿Dónde puedo encontrar un hotel?,es,en,Where can I find a hotel?,Formal,Medium,Clarify
+81,How does this program work?,en,fr,Comment fonctionne ce programme ?,Emergency,Medium,Request
+82,¿Puedo devolver este artículo?,es,en,Can I return this item?,Emergency,Short,Translate
+83,Where can I buy concert tickets?,en,uk,Де я можу купити квитки на концерт?,Travel,Medium,Inform
+84,Please explain it again.,en,es,"Por favor, explícalo de nuevo.",Technical,Short,Request
+85,What is your dog's name?,en,fr,Comment s'appelle votre chien ?,Formal,Medium,Inform
+86,¿Cuánto cuesta este libro?,es,uk,Скільки коштує ця книга?,Technical,Short,Translate
+87,¿Puedo llevar esto para llevar?,es,fr,Puis-je emporter ceci ?,Emergency,Medium,Translate
+88,¿Dónde está la farmacia más cercana?,es,fr,Où est la pharmacie la plus proche ?,Travel,Medium,Translate
+89,Can I pay by card?,en,es,¿Puedo pagar con tarjeta?,Emergency,Medium,Inform
+90,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Casual,Short,Translate
+91,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Formal,Short,Translate
+92,"Hello, how are you?",en,uk,"Привіт, як справи?",Travel,Short,Request
+93,How does this program work?,en,es,¿Cómo funciona este programa?,Emergency,Medium,Request
+94,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Formal,Medium,Translate
+95,Як налаштувати Wi-Fi?,uk,en,How to set up Wi-Fi?,Casual,Short,Request
+96,Де найближча аптека?,uk,es,¿Dónde está la farmacia más cercana?,Emergency,Short,Clarify
+97,Як зв’язатися з підтримкою?,uk,en,How do I contact support?,Emergency,Short,Inform
+98,Чи є у вас вегетаріанське меню?,uk,fr,Avez-vous un menu végétarien ?,Formal,Medium,Request
+99,¿Cómo llegar a la estación de tren?,es,fr,Comment aller à la gare ?,Travel,Medium,Translate
+100,What time is it now?,en,uk,Який час зараз?,Casual,Medium,Translate
+101,Чи йде дощ?,uk,es,¿Está lloviendo?,Technical,Short,Request
+102,Quel est le taux de change aujourd'hui ?,fr,en,What is today's exchange rate?,Travel,Medium,Request
+103,Скільки коштує ця книга?,uk,fr,Combien coûte ce livre ?,Formal,Short,Clarify
+104,Please explain it again.,en,uk,"Будь ласка, поясніть це ще раз.",Formal,Short,Request
+105,¿Dónde está la biblioteca?,es,fr,Où est la bibliothèque ?,Emergency,Short,Translate
+106,Are there free seats in the restaurant?,en,uk,Чи є вільні місця в ресторані?,Technical,Medium,Translate
+107,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Technical,Short,Request
+108,¿Dónde está la biblioteca?,es,en,Where is the library?,Casual,Short,Translate
+109,¿Dónde puedo comprar entradas para un concierto?,es,uk,Де я можу купити квитки на концерт?,Emergency,Medium,Clarify
+110,¿Cuánto cuesta el boleto?,es,uk,Скільки коштує квиток?,Travel,Short,Translate
+111,J'ai besoin d'une traduction de ce document.,fr,uk,Мені потрібен переклад цього документа.,Casual,Medium,Request
+112,"¡Es urgente, llame a un médico!",es,uk,"Це терміново, викличте лікаря!",Technical,Medium,Request
+113,¡Esto es delicioso!,es,uk,Це смачно!,Technical,Short,Translate
+114,Як підключити принтер до комп'ютера?,uk,es,¿Cómo conectar una impresora a la computadora?,Formal,Medium,Translate
+115,Де я можу знайти готель?,uk,fr,Où puis-je trouver un hôtel ?,Formal,Medium,Request
+116,Який сьогодні курс валют?,uk,en,What is today's exchange rate?,Casual,Short,Clarify
+117,Me gusta este lugar.,es,en,I like this place.,Emergency,Short,Translate
+118,Comment contacter le support ?,fr,en,How do I contact support?,Technical,Medium,Translate
+119,¿A qué distancia está el aeropuerto?,es,fr,À quelle distance est l'aéroport ?,Emergency,Medium,Translate
+120,Avez-vous un menu végétarien ?,fr,uk,Чи є у вас вегетаріанське меню?,Travel,Medium,Inform
+121,Чи є у вас вегетаріанське меню?,uk,es,¿Tienen menú vegetariano?,Technical,Medium,Clarify
+122,Where can I find a hotel?,en,es,¿Dónde puedo encontrar un hotel?,Technical,Medium,Request
+123,¿Puedo pagar con tarjeta?,es,en,Can I pay by card?,Casual,Short,Inform
+124,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Formal,Medium,Inform
+125,Де знаходиться бібліотека?,uk,en,Where is the library?,Travel,Short,Request
+126,Where is the nearest pharmacy?,en,uk,Де найближча аптека?,Travel,Medium,Clarify
+127,Où est mon téléphone ?,fr,es,¿Dónde está mi teléfono?,Formal,Medium,Translate
+128,Combien de temps prendra la réparation ?,fr,en,How long will the repair take?,Travel,Medium,Inform
+129,"Привіт, як справи?",uk,es,"¡Hola, cómo estás?",Technical,Short,Translate
+130,How does this program work?,en,fr,Comment fonctionne ce programme ?,Travel,Medium,Translate
+131,¿Puedo llevar esto para llevar?,es,uk,Чи можу я взяти це з собою?,Casual,Medium,Inform
+132,J'ai besoin d'une traduction de ce document.,fr,uk,Мені потрібен переклад цього документа.,Casual,Medium,Translate
+133,¿Cuánto cuesta este libro?,es,fr,Combien coûte ce livre ?,Technical,Short,Translate
+134,Як налаштувати Wi-Fi?,uk,fr,Comment configurer le Wi-Fi ?,Emergency,Short,Clarify
+135,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Travel,Medium,Request
+136,¿Cómo se llama tu perro?,es,fr,Comment s'appelle votre chien ?,Formal,Medium,Request
+137,¿Puedo llevar esto para llevar?,es,fr,Puis-je emporter ceci ?,Casual,Medium,Translate
+138,Where can I buy concert tickets?,en,uk,Де я можу купити квитки на концерт?,Casual,Medium,Translate
+139,¿Cómo configurar Wi-Fi?,es,uk,Як налаштувати Wi-Fi?,Formal,Short,Translate
+140,¡Esto es delicioso!,es,uk,Це смачно!,Technical,Short,Request
+141,Où puis-je acheter des billets pour un concert ?,fr,uk,Де я можу купити квитки на концерт?,Formal,Medium,Inform
+142,"¡Es urgente, llame a un médico!",es,fr,"C'est urgent, appelez un médecin !",Formal,Medium,Request
+143,What is today's exchange rate?,en,uk,Який сьогодні курс валют?,Formal,Medium,Translate
+144,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Technical,Medium,Inform
+145,¡Esto es delicioso!,es,fr,C'est délicieux !,Travel,Short,Translate
+146,¿Cuánto cuesta el boleto?,es,en,How much is the ticket?,Emergency,Short,Request
+147,I'm cold.,en,fr,J'ai froid.,Travel,Short,Translate
+148,Скільки коштує квиток?,uk,es,¿Cuánto cuesta el boleto?,Casual,Short,Translate
+149,¿Cómo contacto con soporte?,es,fr,Comment contacter le support ?,Casual,Short,Request
+150,Як далеко до аеропорту?,uk,es,¿A qué distancia está el aeropuerto?,Casual,Short,Request
+151,"C'est urgent, appelez un médecin !",fr,en,"It's urgent, call a doctor!",Emergency,Medium,Inform
+152,Où puis-je trouver un hôtel ?,fr,en,Where can I find a hotel?,Travel,Medium,Inform
+153,Qu'est-ce que l'intelligence artificielle ?,fr,uk,Що таке штучний інтелект?,Emergency,Medium,Clarify
+154,Мені подобається це місце.,uk,es,Me gusta este lugar.,Casual,Short,Translate
+155,Мені потрібен переклад цього документа.,uk,fr,J'ai besoin d'une traduction de ce document.,Travel,Medium,Inform
+156,Мені потрібен переклад цього документа.,uk,en,I need a translation of this document.,Emergency,Medium,Request
+157,¿Cómo configurar Wi-Fi?,es,uk,Як налаштувати Wi-Fi?,Technical,Short,Translate
+158,¿Dónde está la farmacia más cercana?,es,en,Where is the nearest pharmacy?,Travel,Medium,Inform
+159,Чи є тут парковка?,uk,es,¿Hay estacionamiento aquí?,Formal,Short,Request
+160,Який у вас пароль Wi-Fi?,uk,en,What is your Wi-Fi password?,Emergency,Medium,Translate
+161,¿Qué hora es ahora?,es,en,What time is it now?,Technical,Short,Request
+162,Where is my phone?,en,es,¿Dónde está mi teléfono?,Formal,Short,Request
+163,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Travel,Short,Translate
+164,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Travel,Short,Inform
+165,How to get to the train station?,en,fr,Comment aller à la gare ?,Emergency,Medium,Inform
+166,"C'est urgent, appelez un médecin !",fr,es,"¡Es urgente, llame a un médico!",Emergency,Medium,Translate
+167,Can I order a taxi?,en,es,¿Puedo pedir un taxi?,Formal,Medium,Clarify
+168,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Technical,Short,Translate
+169,Me gusta este lugar.,es,en,I like this place.,Formal,Short,Inform
+170,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Travel,Short,Request
+171,Де мій телефон?,uk,fr,Où est mon téléphone ?,Technical,Short,Translate
+172,I need help!,en,fr,J'ai besoin d'aide !,Formal,Short,Translate
+173,Скільки коштує ця книга?,uk,es,¿Cuánto cuesta este libro?,Technical,Short,Clarify
+174,I need a translation of this document.,en,es,Necesito una traducción de este documento.,Formal,Medium,Request
+175,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Casual,Short,Inform
+176,How do I contact support?,en,es,¿Cómo contacto con soporte?,Formal,Medium,Request
+177,Чи можу я замовити таксі?,uk,en,Can I order a taxi?,Technical,Medium,Translate
+178,Where is my phone?,en,uk,Де мій телефон?,Technical,Short,Translate
+179,¿Cómo contacto con soporte?,es,uk,Як зв’язатися з підтримкою?,Casual,Short,Translate
+180,Comment connecter une imprimante à l'ordinateur ?,fr,en,How to connect a printer to the computer?,Formal,Medium,Request
+181,Puis-je commander un taxi ?,fr,en,Can I order a taxi?,Formal,Medium,Inform
+182,Чи є у вас вегетаріанське меню?,uk,es,¿Tienen menú vegetariano?,Technical,Medium,Inform
+183,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Formal,Short,Inform
+184,This is delicious!,en,fr,C'est délicieux !,Technical,Short,Translate
+185,Can I try this on?,en,fr,Puis-je essayer ceci ?,Formal,Medium,Request
+186,¿Dónde puedo encontrar un hotel?,es,uk,Де я можу знайти готель?,Casual,Medium,Request
+187,What is your dog's name?,en,fr,Comment s'appelle votre chien ?,Casual,Medium,Translate
+188,Is it raining?,en,es,¿Está lloviendo?,Casual,Short,Clarify
+189,¿Qué es la inteligencia artificial?,es,en,What is artificial intelligence?,Formal,Medium,Inform
+190,Do you have a vegetarian menu?,en,fr,Avez-vous un menu végétarien ?,Casual,Medium,Request
+191,Чи можу я оплатити карткою?,uk,fr,Puis-je payer par carte ?,Formal,Medium,Clarify
+192,Мені подобається це місце.,uk,en,I like this place.,Casual,Short,Request
+193,Where can I buy concert tickets?,en,uk,Де я можу купити квитки на концерт?,Travel,Medium,Request
+194,"Це терміново, викличте лікаря!",uk,es,"¡Es urgente, llame a un médico!",Technical,Short,Translate
+195,¿Cuánto tiempo tomará la reparación?,es,en,How long will the repair take?,Formal,Medium,Request
+196,How much does it cost?,en,fr,Combien ça coûte ?,Casual,Medium,Request
+197,Necesito una traducción de este documento.,es,fr,J'ai besoin d'une traduction de ce document.,Formal,Medium,Translate
+198,Це смачно!,uk,en,This is delicious!,Technical,Short,Translate
+199,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Emergency,Short,Clarify
+200,Чи є тут парковка?,uk,en,Is there parking here?,Travel,Short,Request
+201,¿Cuál es la contraseña del Wi-Fi?,es,uk,Який у вас пароль Wi-Fi?,Emergency,Medium,Clarify
+202,¿Dónde puedo encontrar un hotel?,es,uk,Де я можу знайти готель?,Emergency,Medium,Clarify
+203,Мені потрібна допомога!,uk,fr,J'ai besoin d'aide !,Casual,Short,Request
+204,Est-ce qu'il pleut ?,fr,uk,Чи йде дощ?,Casual,Short,Request
+205,¿Cuál es la contraseña del Wi-Fi?,es,en,What is your Wi-Fi password?,Travel,Medium,Request
+206,How to set up Wi-Fi?,en,uk,Як налаштувати Wi-Fi?,Travel,Medium,Request
+207,Y a-t-il des places libres au restaurant ?,fr,uk,Чи є вільні місця в ресторані?,Formal,Medium,Translate
+208,J'ai froid.,fr,en,I'm cold.,Technical,Short,Request
+209,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Casual,Short,Translate
+210,What is today's exchange rate?,en,fr,Quel est le taux de change aujourd'hui ?,Emergency,Medium,Clarify
+211,Can I return this item?,en,es,¿Puedo devolver este artículo?,Emergency,Medium,Request
+212,Як зв’язатися з підтримкою?,uk,en,How do I contact support?,Technical,Short,Request
+213,I lost my keys.,en,fr,J'ai perdu mes clés.,Technical,Short,Translate
+214,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Technical,Short,Request
+215,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Casual,Short,Inform
+216,¡Esto es delicioso!,es,fr,C'est délicieux !,Formal,Short,Translate
+217,Який час зараз?,uk,en,What time is it now?,Technical,Short,Translate
+218,J'ai besoin d'une traduction de ce document.,fr,uk,Мені потрібен переклад цього документа.,Travel,Medium,Request
+219,Скільки коштує квиток?,uk,es,¿Cuánto cuesta el boleto?,Emergency,Short,Inform
+220,Чи йде дощ?,uk,es,¿Está lloviendo?,Technical,Short,Request
+221,¿Cuál es la contraseña del Wi-Fi?,es,fr,Quel est le mot de passe Wi-Fi ?,Emergency,Medium,Inform
+222,Merci pour votre attention.,fr,en,Thank you for your attention.,Travel,Short,Inform
+223,Quiero una taza de café.,es,uk,Я хочу чашку кави.,Emergency,Medium,Clarify
+224,How to set up Wi-Fi?,en,uk,Як налаштувати Wi-Fi?,Technical,Medium,Request
+225,¿Dónde puedo encontrar un hotel?,es,en,Where can I find a hotel?,Formal,Medium,Translate
+226,Puis-je emporter ceci ?,fr,en,Can I take this to go?,Technical,Short,Translate
+227,I like this place.,en,es,Me gusta este lugar.,Travel,Short,Inform
+228,"C'est urgent, appelez un médecin !",fr,en,"It's urgent, call a doctor!",Casual,Medium,Request
+229,"Це терміново, викличте лікаря!",uk,fr,"C'est urgent, appelez un médecin !",Casual,Short,Clarify
+230,Avez-vous des réductions ?,fr,es,¿Tienen descuentos?,Casual,Short,Translate
+231,¿Hay asientos libres en el restaurante?,es,uk,Чи є вільні місця в ресторані?,Technical,Medium,Inform
+232,¿Puedo llevar esto para llevar?,es,uk,Чи можу я взяти це з собою?,Emergency,Medium,Inform
+233,C'est délicieux !,fr,en,This is delicious!,Travel,Short,Clarify
+234,Як підключити принтер до комп'ютера?,uk,en,How to connect a printer to the computer?,Travel,Medium,Request
+235,Où puis-je trouver un hôtel ?,fr,uk,Де я можу знайти готель?,Technical,Medium,Translate
+236,Tengo frío.,es,uk,Мені холодно.,Travel,Short,Request
+237,"C'est urgent, appelez un médecin !",fr,es,"¡Es urgente, llame a un médico!",Casual,Medium,Request
+238,¿Cuánto cuesta este libro?,es,fr,Combien coûte ce livre ?,Emergency,Short,Translate
+239,Do you have any discounts?,en,es,¿Tienen descuentos?,Emergency,Medium,Inform
+240,¿Puedo pedir un taxi?,es,fr,Puis-je commander un taxi ?,Formal,Short,Translate
+241,Y a-t-il des places libres au restaurant ?,fr,en,Are there free seats in the restaurant?,Travel,Medium,Translate
+242,Can I take this to go?,en,fr,Puis-je emporter ceci ?,Emergency,Medium,Translate
+243,Combien coûte ce livre ?,fr,en,How much is this book?,Technical,Medium,Inform
+244,Як налаштувати Wi-Fi?,uk,fr,Comment configurer le Wi-Fi ?,Technical,Short,Inform
+245,Як зв’язатися з підтримкою?,uk,es,¿Cómo contacto con soporte?,Casual,Short,Request
+246,Merci pour votre attention.,fr,uk,Дякую за вашу увагу.,Casual,Short,Inform
+247,Please explain it again.,en,es,"Por favor, explícalo de nuevo.",Travel,Short,Translate
+248,¿Puedo pagar con tarjeta?,es,fr,Puis-je payer par carte ?,Casual,Short,Request
+249,Thank you for your attention.,en,es,Gracias por su atención.,Technical,Medium,Inform
+250,Where is the nearest pharmacy?,en,fr,Où est la pharmacie la plus proche ?,Travel,Medium,Request
+251,I want a cup of coffee.,en,uk,Я хочу чашку кави.,Formal,Medium,Translate
+252,¿Dónde está la farmacia más cercana?,es,uk,Де найближча аптека?,Emergency,Medium,Clarify
+253,Скільки це коштує?,uk,es,¿Cuánto cuesta?,Emergency,Short,Translate
+254,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Travel,Short,Request
+255,This is delicious!,en,uk,Це смачно!,Emergency,Short,Request
+256,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Emergency,Medium,Translate
+257,Як далеко до аеропорту?,uk,es,¿A qué distancia está el aeropuerto?,Casual,Short,Translate
+258,Puis-je retourner cet article ?,fr,uk,Чи можу я повернути цей товар?,Casual,Medium,Translate
+259,Чи можу я взяти це з собою?,uk,fr,Puis-je emporter ceci ?,Formal,Medium,Translate
+260,¿Qué hora es ahora?,es,fr,Quelle heure est-il maintenant ?,Emergency,Short,Translate
+261,Où est la bibliothèque ?,fr,en,Where is the library?,Formal,Medium,Translate
+262,Can I pay by card?,en,fr,Puis-je payer par carte ?,Casual,Medium,Request
+263,What time is it now?,en,es,¿Qué hora es ahora?,Casual,Medium,Translate
+264,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Technical,Medium,Request
+265,À quelle distance est l'aéroport ?,fr,uk,Як далеко до аеропорту?,Emergency,Medium,Request
+266,Comment configurer le Wi-Fi ?,fr,uk,Як налаштувати Wi-Fi?,Formal,Medium,Inform
+267,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Emergency,Medium,Request
+268,Puis-je retourner cet article ?,fr,es,¿Puedo devolver este artículo?,Technical,Medium,Inform
+269,Where is the library?,en,uk,Де знаходиться бібліотека?,Travel,Short,Request
+270,¿Cuál es el tipo de cambio hoy?,es,uk,Який сьогодні курс валют?,Technical,Medium,Inform
+271,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Formal,Short,Request
+272,I'm cold.,en,fr,J'ai froid.,Travel,Short,Translate
+273,¿Hay asientos libres en el restaurante?,es,fr,Y a-t-il des places libres au restaurant ?,Formal,Medium,Translate
+274,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Emergency,Medium,Request
+275,Чи є у вас знижки?,uk,es,¿Tienen descuentos?,Travel,Medium,Translate
+276,"¡Es urgente, llame a un médico!",es,en,"It's urgent, call a doctor!",Formal,Medium,Translate
+277,¡Necesito ayuda!,es,fr,J'ai besoin d'aide !,Formal,Short,Translate
+278,I like this place.,en,es,Me gusta este lugar.,Formal,Short,Clarify
+279,Як працює ця програма?,uk,es,¿Cómo funciona este programa?,Emergency,Short,Translate
+280,How to connect a printer to the computer?,en,es,¿Cómo conectar una impresora a la computadora?,Emergency,Medium,Clarify
+281,I need help!,en,uk,Мені потрібна допомога!,Casual,Short,Request
+282,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Casual,Medium,Translate
+283,"¡Es urgente, llame a un médico!",es,uk,"Це терміново, викличте лікаря!",Formal,Medium,Clarify
+284,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Emergency,Short,Request
+285,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Travel,Medium,Translate
+286,¿Qué hora es ahora?,es,fr,Quelle heure est-il maintenant ?,Travel,Short,Translate
+287,Where is the library?,en,es,¿Dónde está la biblioteca?,Formal,Short,Translate
+288,Gracias por su atención.,es,uk,Дякую за вашу увагу.,Formal,Short,Request
+289,"Bonjour, comment vas-tu ?",fr,es,"¡Hola, cómo estás?",Technical,Short,Request
+290,Мені холодно.,uk,fr,J'ai froid.,Travel,Short,Translate
+291,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Casual,Medium,Clarify
+292,Чи можу я повернути цей товар?,uk,en,Can I return this item?,Emergency,Medium,Translate
+293,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Casual,Short,Request
+294,¿Cuánto tiempo tomará la reparación?,es,en,How long will the repair take?,Casual,Medium,Inform
+295,¿Cómo conectar una impresora a la computadora?,es,fr,Comment connecter une imprimante à l'ordinateur ?,Casual,Medium,Translate
+296,¿Cuánto cuesta este libro?,es,fr,Combien coûte ce livre ?,Casual,Short,Request
+297,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Technical,Medium,Inform
+298,"Привіт, як справи?",uk,en,"Hello, how are you?",Travel,Short,Translate
+299,Avez-vous des réductions ?,fr,en,Do you have any discounts?,Emergency,Short,Translate
+300,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Formal,Short,Translate
+301,Чи можу я замовити таксі?,uk,en,Can I order a taxi?,Casual,Medium,Request
+302,How to get to the train station?,en,uk,Як дістатися до вокзалу?,Casual,Medium,Request
+303,How much is this book?,en,fr,Combien coûte ce livre ?,Casual,Medium,Translate
+304,Qu'est-ce que l'intelligence artificielle ?,fr,es,¿Qué es la inteligencia artificial?,Technical,Medium,Request
+305,Please explain it again.,en,uk,"Будь ласка, поясніть це ще раз.",Formal,Short,Clarify
+306,Comment contacter le support ?,fr,en,How do I contact support?,Emergency,Medium,Translate
+307,Чи є тут парковка?,uk,fr,Y a-t-il un parking ici ?,Technical,Short,Clarify
+308,Чи можу я взяти це з собою?,uk,en,Can I take this to go?,Casual,Medium,Inform
+309,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Travel,Short,Request
+310,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Emergency,Short,Request
+311,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Emergency,Short,Request
+312,Quel est le taux de change aujourd'hui ?,fr,uk,Який сьогодні курс валют?,Travel,Medium,Request
+313,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Emergency,Medium,Translate
+314,¿Cuál es el tipo de cambio hoy?,es,uk,Який сьогодні курс валют?,Casual,Medium,Translate
+315,¿Dónde puedo encontrar un hotel?,es,fr,Où puis-je trouver un hôtel ?,Formal,Medium,Inform
+316,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Emergency,Short,Request
+317,¿Puedo devolver este artículo?,es,fr,Puis-je retourner cet article ?,Casual,Short,Translate
+318,¿Puedo devolver este artículo?,es,uk,Чи можу я повернути цей товар?,Travel,Short,Request
+319,Thank you for your attention.,en,fr,Merci pour votre attention.,Technical,Medium,Translate
+320,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Technical,Medium,Clarify
+321,Can I take this to go?,en,fr,Puis-je emporter ceci ?,Casual,Medium,Translate
+322,"¡Hola, cómo estás?",es,en,"Hello, how are you?",Travel,Short,Request
+323,¿Qué es la inteligencia artificial?,es,en,What is artificial intelligence?,Casual,Medium,Clarify
+324,Can I pay by card?,en,fr,Puis-je payer par carte ?,Travel,Medium,Request
+325,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Travel,Short,Request
+326,¿Dónde está mi teléfono?,es,fr,Où est mon téléphone ?,Travel,Short,Translate
+327,What is your Wi-Fi password?,en,fr,Quel est le mot de passe Wi-Fi ?,Emergency,Medium,Translate
+328,Où est mon téléphone ?,fr,en,Where is my phone?,Emergency,Medium,Translate
+329,Що таке штучний інтелект?,uk,fr,Qu'est-ce que l'intelligence artificielle ?,Travel,Short,Request
+330,J'ai froid.,fr,es,Tengo frío.,Technical,Short,Clarify
+331,J'ai perdu mes clés.,fr,es,Perdí mis llaves.,Casual,Short,Inform
+332,Puis-je essayer ceci ?,fr,es,¿Puedo probarme esto?,Formal,Short,Request
+333,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Formal,Medium,Translate
+334,Як довго триватиме ремонт?,uk,es,¿Cuánto tiempo tomará la reparación?,Formal,Short,Request
+335,Це смачно!,uk,en,This is delicious!,Casual,Short,Translate
+336,Je veux une tasse de café.,fr,es,Quiero una taza de café.,Travel,Medium,Inform
+337,Comment contacter le support ?,fr,uk,Як зв’язатися з підтримкою?,Formal,Medium,Translate
+338,Чи можу я взяти це з собою?,uk,fr,Puis-je emporter ceci ?,Emergency,Medium,Request
+339,How to set up Wi-Fi?,en,es,¿Cómo configurar Wi-Fi?,Travel,Medium,Translate
+340,Do you have a vegetarian menu?,en,fr,Avez-vous un menu végétarien ?,Casual,Medium,Translate
+341,¿Dónde está mi teléfono?,es,en,Where is my phone?,Emergency,Short,Inform
+342,¿Cómo configurar Wi-Fi?,es,fr,Comment configurer le Wi-Fi ?,Casual,Short,Inform
+343,Чи йде дощ?,uk,es,¿Está lloviendo?,Casual,Short,Clarify
+344,Чи йде дощ?,uk,es,¿Está lloviendo?,Formal,Short,Clarify
+345,¿Está lloviendo?,es,uk,Чи йде дощ?,Formal,Short,Translate
+346,Combien de temps prendra la réparation ?,fr,es,¿Cuánto tiempo tomará la reparación?,Casual,Medium,Clarify
+347,Merci pour votre attention.,fr,es,Gracias por su atención.,Travel,Short,Inform
+348,Where is the nearest pharmacy?,en,es,¿Dónde está la farmacia más cercana?,Emergency,Medium,Clarify
+349,Чи можу я спробувати це?,uk,es,¿Puedo probarme esto?,Casual,Medium,Translate
+350,This is delicious!,en,uk,Це смачно!,Travel,Short,Translate
+351,Як зв’язатися з підтримкою?,uk,es,¿Cómo contacto con soporte?,Casual,Short,Request
+352,Can I order a taxi?,en,uk,Чи можу я замовити таксі?,Technical,Medium,Clarify
+353,¿Cuál es el tipo de cambio hoy?,es,uk,Який сьогодні курс валют?,Technical,Medium,Clarify
+354,Combien ça coûte ?,fr,uk,Скільки це коштує?,Travel,Short,Translate
+355,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Casual,Short,Translate
+356,Скільки це коштує?,uk,en,How much does it cost?,Casual,Short,Inform
+357,Comment configurer le Wi-Fi ?,fr,uk,Як налаштувати Wi-Fi?,Travel,Medium,Request
+358,Puis-je payer par carte ?,fr,en,Can I pay by card?,Formal,Medium,Inform
+359,Як далеко до аеропорту?,uk,es,¿A qué distancia está el aeropuerto?,Emergency,Short,Translate
+360,Quiero una taza de café.,es,en,I want a cup of coffee.,Technical,Medium,Translate
+361,How far is the airport?,en,uk,Як далеко до аеропорту?,Casual,Medium,Translate
+362,Est-ce qu'il pleut ?,fr,uk,Чи йде дощ?,Formal,Short,Translate
+363,Як працює ця програма?,uk,fr,Comment fonctionne ce programme ?,Casual,Short,Inform
+364,How to get to the train station?,en,es,¿Cómo llegar a la estación de tren?,Formal,Medium,Translate
+365,¿Puedo probarme esto?,es,uk,Чи можу я спробувати це?,Casual,Short,Inform
+366,C'est délicieux !,fr,es,¡Esto es delicioso!,Travel,Short,Translate
+367,Where is the library?,en,uk,Де знаходиться бібліотека?,Emergency,Short,Translate
+368,"¡Hola, cómo estás?",es,uk,"Привіт, як справи?",Formal,Short,Request
+369,¿Cuánto cuesta este libro?,es,en,How much is this book?,Casual,Short,Request
+370,Мені подобається це місце.,uk,en,I like this place.,Formal,Short,Clarify
+371,Where can I buy concert tickets?,en,fr,Où puis-je acheter des billets pour un concert ?,Formal,Medium,Translate
+372,Can I return this item?,en,es,¿Puedo devolver este artículo?,Emergency,Medium,Request
+373,Puis-je emporter ceci ?,fr,uk,Чи можу я взяти це з собою?,Technical,Short,Clarify
+374,Où puis-je trouver un hôtel ?,fr,en,Where can I find a hotel?,Casual,Medium,Clarify
+375,Чи можу я оплатити карткою?,uk,fr,Puis-je payer par carte ?,Formal,Medium,Request
+376,¿Puedo devolver este artículo?,es,uk,Чи можу я повернути цей товар?,Casual,Short,Translate
+377,¿Puedo pagar con tarjeta?,es,fr,Puis-je payer par carte ?,Travel,Short,Translate
+378,Чи можу я замовити таксі?,uk,es,¿Puedo pedir un taxi?,Casual,Medium,Clarify
+379,Y a-t-il un parking ici ?,fr,uk,Чи є тут парковка?,Travel,Medium,Request
+380,Скільки коштує ця книга?,uk,fr,Combien coûte ce livre ?,Technical,Short,Clarify
+381,Де я можу знайти готель?,uk,en,Where can I find a hotel?,Casual,Medium,Request
+382,Скільки коштує квиток?,uk,fr,Combien coûte le billet ?,Technical,Short,Request
+383,I like this place.,en,uk,Мені подобається це місце.,Formal,Short,Inform
+384,Can I order a taxi?,en,es,¿Puedo pedir un taxi?,Casual,Medium,Request
+385,C'est délicieux !,fr,es,¡Esto es delicioso!,Travel,Short,Clarify
+386,Is there parking here?,en,uk,Чи є тут парковка?,Casual,Short,Translate
+387,Чи є у вас вегетаріанське меню?,uk,es,¿Tienen menú vegetariano?,Casual,Medium,Inform
+388,Чи можу я оплатити карткою?,uk,en,Can I pay by card?,Technical,Medium,Translate
+389,What is artificial intelligence?,en,fr,Qu'est-ce que l'intelligence artificielle ?,Emergency,Short,Translate
+390,Thank you for your attention.,en,uk,Дякую за вашу увагу.,Emergency,Medium,Request
+391,Comment fonctionne ce programme ?,fr,uk,Як працює ця програма?,Emergency,Medium,Translate
+392,Як працює ця програма?,uk,es,¿Cómo funciona este programa?,Technical,Short,Translate
+393,How to connect a printer to the computer?,en,fr,Comment connecter une imprimante à l'ordinateur ?,Technical,Medium,Translate
+394,Чи можу я спробувати це?,uk,fr,Puis-je essayer ceci ?,Travel,Medium,Translate
+395,Qu'est-ce que l'intelligence artificielle ?,fr,uk,Що таке штучний інтелект?,Formal,Medium,Inform
+396,How to get to the train station?,en,fr,Comment aller à la gare ?,Formal,Medium,Inform
+397,"Por favor, explícalo de nuevo.",es,en,Please explain it again.,Casual,Medium,Translate
+398,Чи є тут парковка?,uk,en,Is there parking here?,Casual,Short,Translate
+399,Combien coûte le billet ?,fr,en,How much is the ticket?,Technical,Medium,Request
+400,¿Cuánto cuesta el boleto?,es,en,How much is the ticket?,Casual,Short,Request
+401,Comment s'appelle votre chien ?,fr,en,What is your dog's name?,Casual,Medium,Translate
+402,Where is the library?,en,es,¿Dónde está la biblioteca?,Emergency,Short,Translate
+403,J'ai besoin d'une traduction de ce document.,fr,uk,Мені потрібен переклад цього документа.,Technical,Medium,Translate
+404,Чи є тут парковка?,uk,es,¿Hay estacionamiento aquí?,Formal,Short,Clarify
+405,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Travel,Medium,Translate
+406,Чи є тут парковка?,uk,fr,Y a-t-il un parking ici ?,Technical,Short,Translate
+407,Do you have any discounts?,en,fr,Avez-vous des réductions ?,Travel,Medium,Request
+408,"Це терміново, викличте лікаря!",uk,fr,"C'est urgent, appelez un médecin !",Technical,Short,Inform
+409,Where is my phone?,en,fr,Où est mon téléphone ?,Technical,Short,Request
+410,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Travel,Short,Translate
+411,J'ai besoin d'aide !,fr,uk,Мені потрібна допомога!,Emergency,Short,Translate
+412,Quiero una taza de café.,es,en,I want a cup of coffee.,Travel,Medium,Translate
+413,¿Cómo configurar Wi-Fi?,es,fr,Comment configurer le Wi-Fi ?,Formal,Short,Inform
+414,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Travel,Short,Request
+415,Мені холодно.,uk,fr,J'ai froid.,Emergency,Short,Request
+416,Where is the library?,en,fr,Où est la bibliothèque ?,Formal,Short,Inform
+417,Чи можу я взяти це з собою?,uk,en,Can I take this to go?,Travel,Medium,Request
+418,J'ai besoin d'aide !,fr,uk,Мені потрібна допомога!,Casual,Short,Request
+419,¿Puedo probarme esto?,es,fr,Puis-je essayer ceci ?,Technical,Short,Translate
+420,Where is the nearest pharmacy?,en,fr,Où est la pharmacie la plus proche ?,Technical,Medium,Request
+421,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Technical,Short,Request
+422,Comment contacter le support ?,fr,uk,Як зв’язатися з підтримкою?,Casual,Medium,Translate
+423,Gracias por su atención.,es,fr,Merci pour votre attention.,Casual,Short,Inform
+424,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Travel,Short,Translate
+425,"Por favor, explícalo de nuevo.",es,en,Please explain it again.,Travel,Medium,Translate
+426,Puis-je commander un taxi ?,fr,es,¿Puedo pedir un taxi?,Technical,Medium,Clarify
+427,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Technical,Short,Translate
+428,¿Hay asientos libres en el restaurante?,es,uk,Чи є вільні місця в ресторані?,Formal,Medium,Request
+429,This is delicious!,en,fr,C'est délicieux !,Emergency,Short,Translate
+430,¿Qué es la inteligencia artificial?,es,uk,Що таке штучний інтелект?,Casual,Medium,Clarify
+431,Is there parking here?,en,fr,Y a-t-il un parking ici ?,Emergency,Short,Translate
+432,J'aime cet endroit.,fr,en,I like this place.,Technical,Short,Translate
+433,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Technical,Short,Translate
+434,¿Puedo pedir un taxi?,es,en,Can I order a taxi?,Casual,Short,Request
+435,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Formal,Short,Request
+436,Can I take this to go?,en,uk,Чи можу я взяти це з собою?,Travel,Medium,Inform
+437,¿Tienen descuentos?,es,en,Do you have any discounts?,Technical,Short,Inform
+438,¿Dónde puedo encontrar un hotel?,es,fr,Où puis-je trouver un hôtel ?,Casual,Medium,Request
+439,"Hello, how are you?",en,fr,"Bonjour, comment vas-tu ?",Travel,Short,Inform
+440,¡Esto es delicioso!,es,en,This is delicious!,Formal,Short,Translate
+441,Can I try this on?,en,fr,Puis-je essayer ceci ?,Formal,Medium,Translate
+442,Чи можу я взяти це з собою?,uk,es,¿Puedo llevar esto para llevar?,Casual,Medium,Clarify
+443,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Casual,Medium,Clarify
+444,"Bonjour, comment vas-tu ?",fr,en,"Hello, how are you?",Technical,Short,Inform
+445,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Emergency,Short,Translate
+446,Чи є у вас знижки?,uk,fr,Avez-vous des réductions ?,Emergency,Medium,Inform
+447,Чи можу я замовити таксі?,uk,fr,Puis-je commander un taxi ?,Travel,Medium,Translate
+448,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Emergency,Short,Request
+449,Скільки це коштує?,uk,en,How much does it cost?,Travel,Short,Request
+450,Який час зараз?,uk,es,¿Qué hora es ahora?,Travel,Short,Request
+451,Як дістатися до вокзалу?,uk,fr,Comment aller à la gare ?,Formal,Short,Clarify
+452,I need help!,en,uk,Мені потрібна допомога!,Casual,Short,Request
+453,Скільки коштує ця книга?,uk,fr,Combien coûte ce livre ?,Emergency,Short,Request
+454,¿Qué hora es ahora?,es,en,What time is it now?,Formal,Short,Inform
+455,I lost my keys.,en,es,Perdí mis llaves.,Formal,Short,Request
+456,¿Puedo devolver este artículo?,es,uk,Чи можу я повернути цей товар?,Casual,Short,Translate
+457,Який у вас пароль Wi-Fi?,uk,fr,Quel est le mot de passe Wi-Fi ?,Casual,Medium,Inform
+458,I lost my keys.,en,es,Perdí mis llaves.,Casual,Short,Request
+459,I want a cup of coffee.,en,uk,Я хочу чашку кави.,Formal,Medium,Clarify
+460,Where is my phone?,en,fr,Où est mon téléphone ?,Casual,Short,Translate
+461,¿Dónde puedo comprar entradas para un concierto?,es,en,Where can I buy concert tickets?,Travel,Medium,Request
+462,Where is the library?,en,uk,Де знаходиться бібліотека?,Technical,Short,Request
+463,¿Qué es la inteligencia artificial?,es,fr,Qu'est-ce que l'intelligence artificielle ?,Emergency,Medium,Translate
+464,Can I return this item?,en,fr,Puis-je retourner cet article ?,Emergency,Medium,Request
+465,¿Cuál es el tipo de cambio hoy?,es,fr,Quel est le taux de change aujourd'hui ?,Formal,Medium,Request
+466,"¡Es urgente, llame a un médico!",es,fr,"C'est urgent, appelez un médecin !",Travel,Medium,Translate
+467,¿Cuánto cuesta?,es,fr,Combien ça coûte ?,Emergency,Short,Inform
+468,Як підключити принтер до комп'ютера?,uk,fr,Comment connecter une imprimante à l'ordinateur ?,Technical,Medium,Translate
+469,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Casual,Short,Inform
+470,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Casual,Short,Translate
+471,Comment fonctionne ce programme ?,fr,en,How does this program work?,Emergency,Medium,Inform
+472,Я загубив свої ключі.,uk,fr,J'ai perdu mes clés.,Emergency,Short,Request
+473,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Technical,Short,Translate
+474,Y a-t-il un parking ici ?,fr,uk,Чи є тут парковка?,Casual,Medium,Translate
+475,Чи можу я взяти це з собою?,uk,fr,Puis-je emporter ceci ?,Technical,Medium,Request
+476,What is artificial intelligence?,en,fr,Qu'est-ce que l'intelligence artificielle ?,Formal,Short,Request
+477,Як налаштувати Wi-Fi?,uk,es,¿Cómo configurar Wi-Fi?,Casual,Short,Translate
+478,Y a-t-il un parking ici ?,fr,en,Is there parking here?,Casual,Medium,Inform
+479,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Casual,Short,Translate
+480,Як підключити принтер до комп'ютера?,uk,fr,Comment connecter une imprimante à l'ordinateur ?,Casual,Medium,Request
+481,What is your dog's name?,en,es,¿Cómo se llama tu perro?,Technical,Medium,Translate
+482,Як налаштувати Wi-Fi?,uk,es,¿Cómo configurar Wi-Fi?,Travel,Short,Request
+483,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Technical,Short,Translate
+484,¿Tienen menú vegetariano?,es,en,Do you have a vegetarian menu?,Casual,Short,Clarify
+485,Мені подобається це місце.,uk,es,Me gusta este lugar.,Technical,Short,Translate
+486,Де мій телефон?,uk,es,¿Dónde está mi teléfono?,Travel,Short,Translate
+487,Is it raining?,en,fr,Est-ce qu'il pleut ?,Casual,Short,Request
+488,"Por favor, explícalo de nuevo.",es,uk,"Будь ласка, поясніть це ще раз.",Emergency,Medium,Translate
+489,Where is the library?,en,uk,Де знаходиться бібліотека?,Emergency,Short,Inform
+490,Where can I buy concert tickets?,en,es,¿Dónde puedo comprar entradas para un concierto?,Technical,Medium,Translate
+491,C'est délicieux !,fr,uk,Це смачно!,Formal,Short,Inform
+492,"Будь ласка, поясніть це ще раз.",uk,en,Please explain it again.,Casual,Medium,Translate
+493,Чи йде дощ?,uk,es,¿Está lloviendo?,Travel,Short,Translate
+494,Де найближча аптека?,uk,es,¿Dónde está la farmacia más cercana?,Travel,Short,Request
+495,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Casual,Medium,Request
+496,Як зв’язатися з підтримкою?,uk,es,¿Cómo contacto con soporte?,Technical,Short,Request
+497,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Emergency,Short,Translate
+498,Puis-je emporter ceci ?,fr,es,¿Puedo llevar esto para llevar?,Technical,Short,Clarify
+499,Can I order a taxi?,en,es,¿Puedo pedir un taxi?,Emergency,Medium,Translate
+500,Where can I buy concert tickets?,en,uk,Де я можу купити квитки на концерт?,Emergency,Medium,Translate
+501,¿Está lloviendo?,es,fr,Est-ce qu'il pleut ?,Travel,Short,Translate
+502,Як дістатися до вокзалу?,uk,en,How to get to the train station?,Technical,Short,Inform
+503,¿Dónde puedo encontrar un hotel?,es,fr,Où puis-je trouver un hôtel ?,Technical,Medium,Clarify
+504,J'ai froid.,fr,uk,Мені холодно.,Formal,Short,Translate
+505,¿Dónde está mi teléfono?,es,en,Where is my phone?,Emergency,Short,Request
+506,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Emergency,Short,Request
+507,Я загубив свої ключі.,uk,en,I lost my keys.,Formal,Short,Translate
+508,Avez-vous des réductions ?,fr,en,Do you have any discounts?,Emergency,Short,Clarify
+509,"S'il vous plaît, expliquez encore.",fr,es,"Por favor, explícalo de nuevo.",Emergency,Medium,Inform
+510,Can I pay by card?,en,uk,Чи можу я оплатити карткою?,Technical,Medium,Request
+511,Where is the library?,en,fr,Où est la bibliothèque ?,Formal,Short,Request
+512,I lost my keys.,en,fr,J'ai perdu mes clés.,Casual,Short,Request
+513,Мені холодно.,uk,es,Tengo frío.,Formal,Short,Translate
+514,¿Dónde está la biblioteca?,es,uk,Де знаходиться бібліотека?,Emergency,Short,Translate
+515,Tengo frío.,es,en,I'm cold.,Technical,Short,Request
+516,¿Tienen menú vegetariano?,es,en,Do you have a vegetarian menu?,Emergency,Short,Inform
+517,Як довго триватиме ремонт?,uk,en,How long will the repair take?,Casual,Short,Request
+518,Où est mon téléphone ?,fr,en,Where is my phone?,Formal,Medium,Translate
+519,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Emergency,Medium,Clarify
+520,¿Cuánto cuesta?,es,fr,Combien ça coûte ?,Casual,Short,Inform
+521,¿Hay estacionamiento aquí?,es,en,Is there parking here?,Technical,Short,Translate
+522,Чи є тут парковка?,uk,es,¿Hay estacionamiento aquí?,Emergency,Short,Clarify
+523,Який час зараз?,uk,es,¿Qué hora es ahora?,Travel,Short,Inform
+524,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Casual,Short,Request
+525,How do I contact support?,en,es,¿Cómo contacto con soporte?,Formal,Medium,Translate
+526,How much is this book?,en,es,¿Cuánto cuesta este libro?,Technical,Medium,Request
+527,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Casual,Medium,Translate
+528,¿A qué distancia está el aeropuerto?,es,uk,Як далеко до аеропорту?,Casual,Medium,Request
+529,Чи можу я спробувати це?,uk,en,Can I try this on?,Technical,Medium,Inform
+530,¿Puedo pedir un taxi?,es,en,Can I order a taxi?,Travel,Short,Translate
+531,Скільки це коштує?,uk,fr,Combien ça coûte ?,Emergency,Short,Translate
+532,¿Cómo conectar una impresora a la computadora?,es,en,How to connect a printer to the computer?,Formal,Medium,Request
+533,¿Cómo funciona este programa?,es,fr,Comment fonctionne ce programme ?,Casual,Short,Clarify
+534,¡Esto es delicioso!,es,fr,C'est délicieux !,Travel,Short,Translate
+535,"Будь ласка, поясніть це ще раз.",uk,en,Please explain it again.,Travel,Medium,Clarify
+536,Qu'est-ce que l'intelligence artificielle ?,fr,en,What is artificial intelligence?,Technical,Medium,Clarify
+537,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Technical,Short,Request
+538,C'est délicieux !,fr,es,¡Esto es delicioso!,Formal,Short,Clarify
+539,Comment contacter le support ?,fr,en,How do I contact support?,Formal,Medium,Inform
+540,Що таке штучний інтелект?,uk,es,¿Qué es la inteligencia artificial?,Casual,Short,Request
+541,¿Dónde está la farmacia más cercana?,es,fr,Où est la pharmacie la plus proche ?,Travel,Medium,Request
+542,Comment s'appelle votre chien ?,fr,es,¿Cómo se llama tu perro?,Travel,Medium,Request
+543,Скільки це коштує?,uk,en,How much does it cost?,Travel,Short,Request
+544,"C'est urgent, appelez un médecin !",fr,uk,"Це терміново, викличте лікаря!",Emergency,Medium,Translate
+545,How to connect a printer to the computer?,en,fr,Comment connecter une imprimante à l'ordinateur ?,Casual,Medium,Translate
+546,Мені потрібна допомога!,uk,en,I need help!,Technical,Short,Request
+547,Can I take this to go?,en,es,¿Puedo llevar esto para llevar?,Travel,Medium,Request
+548,Дякую за вашу увагу.,uk,es,Gracias por su atención.,Emergency,Short,Translate
+549,¿Tienen descuentos?,es,en,Do you have any discounts?,Casual,Short,Inform
+550,Чи можу я взяти це з собою?,uk,fr,Puis-je emporter ceci ?,Technical,Medium,Clarify
+551,Where can I buy concert tickets?,en,fr,Où puis-je acheter des billets pour un concert ?,Technical,Medium,Request
+552,Де я можу купити квитки на концерт?,uk,en,Where can I buy concert tickets?,Travel,Medium,Translate
+553,¿Está lloviendo?,es,uk,Чи йде дощ?,Travel,Short,Translate
+554,Où est mon téléphone ?,fr,es,¿Dónde está mi teléfono?,Formal,Medium,Translate
+555,Мені потрібна допомога!,uk,fr,J'ai besoin d'aide !,Emergency,Short,Request
+556,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Casual,Short,Request
+557,How much does it cost?,en,fr,Combien ça coûte ?,Travel,Medium,Request
+558,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Emergency,Short,Request
+559,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Technical,Medium,Clarify
+560,Дякую за вашу увагу.,uk,en,Thank you for your attention.,Technical,Short,Inform
+561,¿Cómo se llama tu perro?,es,uk,Як звати вашого собаку?,Formal,Medium,Request
+562,Où est la pharmacie la plus proche ?,fr,en,Where is the nearest pharmacy?,Casual,Medium,Translate
+563,Чи можу я спробувати це?,uk,fr,Puis-je essayer ceci ?,Emergency,Medium,Translate
+564,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Emergency,Medium,Request
+565,Quel est le mot de passe Wi-Fi ?,fr,es,¿Cuál es la contraseña del Wi-Fi?,Formal,Medium,Request
+566,Як довго триватиме ремонт?,uk,es,¿Cuánto tiempo tomará la reparación?,Technical,Short,Translate
+567,¿Hay asientos libres en el restaurante?,es,uk,Чи є вільні місця в ресторані?,Travel,Medium,Clarify
+568,Are there free seats in the restaurant?,en,fr,Y a-t-il des places libres au restaurant ?,Technical,Medium,Inform
+569,¿Hay asientos libres en el restaurante?,es,en,Are there free seats in the restaurant?,Casual,Medium,Request
+570,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Technical,Medium,Translate
+571,How to connect a printer to the computer?,en,uk,Як підключити принтер до комп'ютера?,Travel,Medium,Translate
+572,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Emergency,Short,Inform
+573,"Hello, how are you?",en,uk,"Привіт, як справи?",Travel,Short,Clarify
+574,¿Puedo llevar esto para llevar?,es,en,Can I take this to go?,Technical,Medium,Inform
+575,C'est délicieux !,fr,uk,Це смачно!,Emergency,Short,Inform
+576,Як працює ця програма?,uk,es,¿Cómo funciona este programa?,Casual,Short,Translate
+577,Do you have any discounts?,en,uk,Чи є у вас знижки?,Travel,Medium,Translate
+578,Puis-je essayer ceci ?,fr,en,Can I try this on?,Casual,Short,Translate
+579,¿Cómo conectar una impresora a la computadora?,es,en,How to connect a printer to the computer?,Casual,Medium,Clarify
+580,Please explain it again.,en,uk,"Будь ласка, поясніть це ще раз.",Casual,Short,Request
+581,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Formal,Short,Request
+582,Where is my phone?,en,uk,Де мій телефон?,Travel,Short,Translate
+583,Який час зараз?,uk,fr,Quelle heure est-il maintenant ?,Emergency,Short,Translate
+584,I need help!,en,fr,J'ai besoin d'aide !,Technical,Short,Request
+585,Is there parking here?,en,es,¿Hay estacionamiento aquí?,Emergency,Short,Clarify
+586,Де я можу купити квитки на концерт?,uk,en,Where can I buy concert tickets?,Technical,Medium,Clarify
+587,Скільки це коштує?,uk,en,How much does it cost?,Emergency,Short,Translate
+588,I want a cup of coffee.,en,es,Quiero una taza de café.,Formal,Medium,Request
+589,"Будь ласка, поясніть це ще раз.",uk,fr,"S'il vous plaît, expliquez encore.",Casual,Medium,Translate
+590,Me gusta este lugar.,es,fr,J'aime cet endroit.,Travel,Short,Translate
+591,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Travel,Medium,Translate
+592,"¡Es urgente, llame a un médico!",es,fr,"C'est urgent, appelez un médecin !",Casual,Medium,Request
+593,Combien coûte le billet ?,fr,en,How much is the ticket?,Formal,Medium,Request
+594,This is delicious!,en,uk,Це смачно!,Formal,Short,Request
+595,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Travel,Short,Request
+596,Can I pay by card?,en,fr,Puis-je payer par carte ?,Formal,Medium,Translate
+597,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Emergency,Short,Translate
+598,What is today's exchange rate?,en,es,¿Cuál es el tipo de cambio hoy?,Casual,Medium,Translate
+599,Quel est le taux de change aujourd'hui ?,fr,en,What is today's exchange rate?,Formal,Medium,Translate
+600,"¡Hola, cómo estás?",es,uk,"Привіт, як справи?",Travel,Short,Translate
+601,Can I return this item?,en,uk,Чи можу я повернути цей товар?,Formal,Medium,Translate
+602,Where is the nearest pharmacy?,en,uk,Де найближча аптека?,Casual,Medium,Inform
+603,Can I order a taxi?,en,fr,Puis-je commander un taxi ?,Travel,Medium,Translate
+604,¿Cómo configurar Wi-Fi?,es,fr,Comment configurer le Wi-Fi ?,Casual,Short,Translate
+605,Quel est le mot de passe Wi-Fi ?,fr,es,¿Cuál es la contraseña del Wi-Fi?,Casual,Medium,Clarify
+606,How does this program work?,en,uk,Як працює ця програма?,Technical,Medium,Inform
+607,"Привіт, як справи?",uk,fr,"Bonjour, comment vas-tu ?",Casual,Short,Translate
+608,Чи є тут парковка?,uk,en,Is there parking here?,Emergency,Short,Clarify
+609,Чи можу я повернути цей товар?,uk,en,Can I return this item?,Casual,Medium,Clarify
+610,Де знаходиться бібліотека?,uk,en,Where is the library?,Technical,Short,Request
+611,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Emergency,Medium,Request
+612,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Technical,Short,Request
+613,Combien ça coûte ?,fr,en,How much does it cost?,Emergency,Short,Request
+614,Do you have a vegetarian menu?,en,es,¿Tienen menú vegetariano?,Casual,Medium,Request
+615,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Emergency,Medium,Request
+616,¡Necesito ayuda!,es,fr,J'ai besoin d'aide !,Technical,Short,Translate
+617,¿Cuánto tiempo tomará la reparación?,es,en,How long will the repair take?,Technical,Medium,Inform
+618,Де мій телефон?,uk,es,¿Dónde está mi teléfono?,Emergency,Short,Translate
+619,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Technical,Short,Inform
+620,Combien ça coûte ?,fr,uk,Скільки це коштує?,Travel,Short,Request
+621,Як далеко до аеропорту?,uk,en,How far is the airport?,Technical,Short,Inform
+622,I need help!,en,es,¡Necesito ayuda!,Emergency,Short,Translate
+623,How long will the repair take?,en,es,¿Cuánto tiempo tomará la reparación?,Formal,Medium,Inform
+624,¿Cómo configurar Wi-Fi?,es,en,How to set up Wi-Fi?,Casual,Short,Translate
+625,I like this place.,en,uk,Мені подобається це місце.,Casual,Short,Inform
+626,¿Tienen descuentos?,es,en,Do you have any discounts?,Technical,Short,Request
+627,Puis-je emporter ceci ?,fr,es,¿Puedo llevar esto para llevar?,Emergency,Short,Clarify
+628,Що таке штучний інтелект?,uk,es,¿Qué es la inteligencia artificial?,Casual,Short,Translate
+629,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Formal,Medium,Inform
+630,Puis-je essayer ceci ?,fr,en,Can I try this on?,Technical,Short,Translate
+631,Як працює ця програма?,uk,fr,Comment fonctionne ce programme ?,Emergency,Short,Request
+632,¿Cuánto tiempo tomará la reparación?,es,en,How long will the repair take?,Formal,Medium,Inform
+633,Де я можу купити квитки на концерт?,uk,en,Where can I buy concert tickets?,Formal,Medium,Translate
+634,How much does it cost?,en,fr,Combien ça coûte ?,Formal,Medium,Request
+635,How does this program work?,en,uk,Як працює ця програма?,Casual,Medium,Translate
+636,¿Dónde está la biblioteca?,es,uk,Де знаходиться бібліотека?,Emergency,Short,Translate
+637,Où est la pharmacie la plus proche ?,fr,uk,Де найближча аптека?,Casual,Medium,Translate
+638,How does this program work?,en,uk,Як працює ця програма?,Emergency,Medium,Request
+639,Comment connecter une imprimante à l'ordinateur ?,fr,en,How to connect a printer to the computer?,Travel,Medium,Translate
+640,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Formal,Medium,Translate
+641,Can I pay by card?,en,uk,Чи можу я оплатити карткою?,Casual,Medium,Inform
+642,"¡Hola, cómo estás?",es,fr,"Bonjour, comment vas-tu ?",Formal,Short,Request
+643,Où est mon téléphone ?,fr,uk,Де мій телефон?,Technical,Medium,Translate
+644,Combien ça coûte ?,fr,uk,Скільки це коштує?,Emergency,Short,Inform
+645,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Formal,Medium,Translate
+646,Do you have any discounts?,en,fr,Avez-vous des réductions ?,Casual,Medium,Translate
+647,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Casual,Short,Request
+648,Скільки це коштує?,uk,fr,Combien ça coûte ?,Emergency,Short,Clarify
+649,Чи можу я замовити таксі?,uk,fr,Puis-je commander un taxi ?,Formal,Medium,Translate
+650,Perdí mis llaves.,es,en,I lost my keys.,Emergency,Short,Inform
+651,¿Puedo llevar esto para llevar?,es,uk,Чи можу я взяти це з собою?,Formal,Medium,Clarify
+652,Чи є у вас знижки?,uk,es,¿Tienen descuentos?,Emergency,Medium,Clarify
+653,Me gusta este lugar.,es,fr,J'aime cet endroit.,Casual,Short,Request
+654,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Technical,Medium,Clarify
+655,Чи можу я замовити таксі?,uk,en,Can I order a taxi?,Travel,Medium,Request
+656,Що таке штучний інтелект?,uk,fr,Qu'est-ce que l'intelligence artificielle ?,Travel,Short,Request
+657,¿Dónde está la farmacia más cercana?,es,uk,Де найближча аптека?,Casual,Medium,Request
+658,Can I take this to go?,en,fr,Puis-je emporter ceci ?,Casual,Medium,Translate
+659,Combien coûte ce livre ?,fr,es,¿Cuánto cuesta este libro?,Travel,Medium,Request
+660,Де знаходиться бібліотека?,uk,en,Where is the library?,Casual,Short,Clarify
+661,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Travel,Short,Inform
+662,Puis-je essayer ceci ?,fr,en,Can I try this on?,Emergency,Short,Request
+663,¿Está lloviendo?,es,en,Is it raining?,Casual,Short,Translate
+664,¿Cuál es el tipo de cambio hoy?,es,fr,Quel est le taux de change aujourd'hui ?,Emergency,Medium,Inform
+665,Мені подобається це місце.,uk,en,I like this place.,Travel,Short,Inform
+666,Чи йде дощ?,uk,es,¿Está lloviendo?,Formal,Short,Inform
+667,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Formal,Short,Translate
+668,Tengo frío.,es,en,I'm cold.,Emergency,Short,Translate
+669,Який у вас пароль Wi-Fi?,uk,fr,Quel est le mot de passe Wi-Fi ?,Emergency,Medium,Request
+670,Me gusta este lugar.,es,en,I like this place.,Formal,Short,Translate
+671,J'ai perdu mes clés.,fr,en,I lost my keys.,Formal,Short,Clarify
+672,J'ai perdu mes clés.,fr,en,I lost my keys.,Technical,Short,Translate
+673,¿Puedo probarme esto?,es,en,Can I try this on?,Casual,Short,Translate
+674,À quelle distance est l'aéroport ?,fr,uk,Як далеко до аеропорту?,Formal,Medium,Clarify
+675,Où puis-je acheter des billets pour un concert ?,fr,uk,Де я можу купити квитки на концерт?,Formal,Medium,Translate
+676,How do I contact support?,en,fr,Comment contacter le support ?,Formal,Medium,Request
+677,Де я можу купити квитки на концерт?,uk,en,Where can I buy concert tickets?,Technical,Medium,Request
+678,Where is the nearest pharmacy?,en,uk,Де найближча аптека?,Casual,Medium,Request
+679,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Formal,Short,Clarify
+680,Thank you for your attention.,en,fr,Merci pour votre attention.,Travel,Medium,Translate
+681,Чи можу я повернути цей товар?,uk,fr,Puis-je retourner cet article ?,Casual,Medium,Inform
+682,¿Hay estacionamiento aquí?,es,fr,Y a-t-il un parking ici ?,Technical,Short,Clarify
+683,Це смачно!,uk,fr,C'est délicieux !,Casual,Short,Request
+684,How far is the airport?,en,fr,À quelle distance est l'aéroport ?,Formal,Medium,Translate
+685,Де знаходиться бібліотека?,uk,es,¿Dónde está la biblioteca?,Emergency,Short,Translate
+686,J'ai perdu mes clés.,fr,en,I lost my keys.,Formal,Short,Request
+687,Який у вас пароль Wi-Fi?,uk,fr,Quel est le mot de passe Wi-Fi ?,Travel,Medium,Inform
+688,Where is the nearest pharmacy?,en,es,¿Dónde está la farmacia más cercana?,Emergency,Medium,Request
+689,How does this program work?,en,uk,Як працює ця програма?,Formal,Medium,Inform
+690,J'ai besoin d'une traduction de ce document.,fr,en,I need a translation of this document.,Emergency,Medium,Request
+691,Мені холодно.,uk,en,I'm cold.,Formal,Short,Inform
+692,Як налаштувати Wi-Fi?,uk,en,How to set up Wi-Fi?,Casual,Short,Inform
+693,Це смачно!,uk,fr,C'est délicieux !,Formal,Short,Translate
+694,Quel est le taux de change aujourd'hui ?,fr,en,What is today's exchange rate?,Technical,Medium,Request
+695,"Привіт, як справи?",uk,es,"¡Hola, cómo estás?",Travel,Short,Translate
+696,"¡Hola, cómo estás?",es,fr,"Bonjour, comment vas-tu ?",Technical,Short,Inform
+697,¡Necesito ayuda!,es,fr,J'ai besoin d'aide !,Travel,Short,Request
+698,"Hello, how are you?",en,fr,"Bonjour, comment vas-tu ?",Technical,Short,Clarify
+699,¿Cuánto cuesta?,es,fr,Combien ça coûte ?,Formal,Short,Translate
+700,C'est délicieux !,fr,en,This is delicious!,Travel,Short,Translate
+701,"Bonjour, comment vas-tu ?",fr,es,"¡Hola, cómo estás?",Casual,Short,Translate
+702,Où puis-je trouver un hôtel ?,fr,es,¿Dónde puedo encontrar un hotel?,Casual,Medium,Translate
+703,¡Esto es delicioso!,es,fr,C'est délicieux !,Casual,Short,Translate
+704,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Casual,Medium,Inform
+705,I want a cup of coffee.,en,es,Quiero una taza de café.,Emergency,Medium,Translate
+706,Avez-vous un menu végétarien ?,fr,es,¿Tienen menú vegetariano?,Travel,Medium,Inform
+707,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Formal,Medium,Translate
+708,Can I return this item?,en,uk,Чи можу я повернути цей товар?,Casual,Medium,Translate
+709,Can I return this item?,en,es,¿Puedo devolver este artículo?,Emergency,Medium,Clarify
+710,I lost my keys.,en,uk,Я загубив свої ключі.,Technical,Short,Request
+711,¿Cómo configurar Wi-Fi?,es,uk,Як налаштувати Wi-Fi?,Emergency,Short,Request
+712,¿Cuánto cuesta?,es,en,How much does it cost?,Formal,Short,Request
+713,¿Puedo pedir un taxi?,es,fr,Puis-je commander un taxi ?,Emergency,Short,Request
+714,Puis-je emporter ceci ?,fr,es,¿Puedo llevar esto para llevar?,Casual,Short,Translate
+715,How to set up Wi-Fi?,en,fr,Comment configurer le Wi-Fi ?,Travel,Medium,Translate
+716,Where is the nearest pharmacy?,en,fr,Où est la pharmacie la plus proche ?,Emergency,Medium,Translate
+717,I like this place.,en,es,Me gusta este lugar.,Emergency,Short,Request
+718,How much is the ticket?,en,fr,Combien coûte le billet ?,Formal,Medium,Translate
+719,Do you have a vegetarian menu?,en,es,¿Tienen menú vegetariano?,Travel,Medium,Clarify
+720,What is your dog's name?,en,fr,Comment s'appelle votre chien ?,Formal,Medium,Inform
+721,¿Qué hora es ahora?,es,uk,Який час зараз?,Casual,Short,Translate
+722,Perdí mis llaves.,es,en,I lost my keys.,Casual,Short,Request
+723,Puis-je emporter ceci ?,fr,uk,Чи можу я взяти це з собою?,Technical,Short,Request
+724,¿Cómo se llama tu perro?,es,en,What is your dog's name?,Technical,Medium,Request
+725,"Hello, how are you?",en,uk,"Привіт, як справи?",Technical,Short,Translate
+726,Quiero una taza de café.,es,uk,Я хочу чашку кави.,Travel,Medium,Request
+727,Can I try this on?,en,uk,Чи можу я спробувати це?,Travel,Medium,Translate
+728,Як працює ця програма?,uk,fr,Comment fonctionne ce programme ?,Formal,Short,Inform
+729,Comment aller à la gare ?,fr,en,How to get to the train station?,Formal,Medium,Translate
+730,Can I pay by card?,en,fr,Puis-je payer par carte ?,Travel,Medium,Translate
+731,Can I return this item?,en,uk,Чи можу я повернути цей товар?,Formal,Medium,Translate
+732,J'aime cet endroit.,fr,es,Me gusta este lugar.,Formal,Short,Request
+733,Чи можу я оплатити карткою?,uk,es,¿Puedo pagar con tarjeta?,Casual,Medium,Request
+734,¿Cómo funciona este programa?,es,fr,Comment fonctionne ce programme ?,Travel,Short,Translate
+735,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Technical,Short,Translate
+736,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Technical,Medium,Inform
+737,Дякую за вашу увагу.,uk,en,Thank you for your attention.,Technical,Short,Translate
+738,Where can I find a hotel?,en,es,¿Dónde puedo encontrar un hotel?,Technical,Medium,Inform
+739,Où est mon téléphone ?,fr,es,¿Dónde está mi teléfono?,Casual,Medium,Translate
+740,¿Cuánto cuesta este libro?,es,en,How much is this book?,Casual,Short,Inform
+741,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Formal,Short,Clarify
+742,Чи є тут парковка?,uk,fr,Y a-t-il un parking ici ?,Emergency,Short,Translate
+743,Do you have any discounts?,en,fr,Avez-vous des réductions ?,Emergency,Medium,Clarify
+744,"Це терміново, викличте лікаря!",uk,es,"¡Es urgente, llame a un médico!",Casual,Short,Translate
+745,Combien coûte ce livre ?,fr,uk,Скільки коштує ця книга?,Casual,Medium,Translate
+746,Puis-je commander un taxi ?,fr,en,Can I order a taxi?,Technical,Medium,Inform
+747,I'm cold.,en,es,Tengo frío.,Emergency,Short,Request
+748,I lost my keys.,en,uk,Я загубив свої ключі.,Formal,Short,Request
+749,Do you have a vegetarian menu?,en,fr,Avez-vous un menu végétarien ?,Casual,Medium,Clarify
+750,Perdí mis llaves.,es,en,I lost my keys.,Formal,Short,Request
+751,C'est délicieux !,fr,uk,Це смачно!,Travel,Short,Clarify
+752,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Technical,Medium,Clarify
+753,¿Puedo pedir un taxi?,es,en,Can I order a taxi?,Emergency,Short,Translate
+754,Я загубив свої ключі.,uk,es,Perdí mis llaves.,Travel,Short,Translate
+755,How to connect a printer to the computer?,en,fr,Comment connecter une imprimante à l'ordinateur ?,Formal,Medium,Inform
+756,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Travel,Medium,Translate
+757,Thank you for your attention.,en,fr,Merci pour votre attention.,Travel,Medium,Request
+758,¿Puedo pagar con tarjeta?,es,en,Can I pay by card?,Formal,Short,Translate
+759,Can I take this to go?,en,es,¿Puedo llevar esto para llevar?,Emergency,Medium,Translate
+760,Як дістатися до вокзалу?,uk,en,How to get to the train station?,Travel,Short,Inform
+761,Necesito una traducción de este documento.,es,uk,Мені потрібен переклад цього документа.,Formal,Medium,Translate
+762,Мені подобається це місце.,uk,en,I like this place.,Casual,Short,Translate
+763,How do I contact support?,en,es,¿Cómo contacto con soporte?,Technical,Medium,Request
+764,What is today's exchange rate?,en,uk,Який сьогодні курс валют?,Travel,Medium,Request
+765,Чи є у вас вегетаріанське меню?,uk,es,¿Tienen menú vegetariano?,Casual,Medium,Translate
+766,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Emergency,Short,Inform
+767,¿Puedo probarme esto?,es,fr,Puis-je essayer ceci ?,Casual,Short,Translate
+768,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Formal,Medium,Translate
+769,Gracias por su atención.,es,fr,Merci pour votre attention.,Casual,Short,Translate
+770,How to get to the train station?,en,fr,Comment aller à la gare ?,Emergency,Medium,Inform
+771,Y a-t-il un parking ici ?,fr,en,Is there parking here?,Emergency,Medium,Translate
+772,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Formal,Short,Request
+773,¿Puedo pedir un taxi?,es,en,Can I order a taxi?,Technical,Short,Request
+774,Où est la pharmacie la plus proche ?,fr,en,Where is the nearest pharmacy?,Formal,Medium,Inform
+775,Чи можу я повернути цей товар?,uk,en,Can I return this item?,Technical,Medium,Translate
+776,Tengo frío.,es,fr,J'ai froid.,Formal,Short,Translate
+777,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Formal,Medium,Translate
+778,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Formal,Medium,Inform
+779,Can I return this item?,en,uk,Чи можу я повернути цей товар?,Travel,Medium,Inform
+780,Скільки коштує ця книга?,uk,es,¿Cuánto cuesta este libro?,Travel,Short,Inform
+781,Is it raining?,en,uk,Чи йде дощ?,Casual,Short,Clarify
+782,How do I contact support?,en,es,¿Cómo contacto con soporte?,Casual,Medium,Request
+783,¿Cómo contacto con soporte?,es,en,How do I contact support?,Casual,Short,Translate
+784,How long will the repair take?,en,fr,Combien de temps prendra la réparation ?,Formal,Medium,Translate
+785,Gracias por su atención.,es,en,Thank you for your attention.,Casual,Short,Translate
+786,¿Puedo devolver este artículo?,es,fr,Puis-je retourner cet article ?,Formal,Short,Clarify
+787,Combien ça coûte ?,fr,uk,Скільки це коштує?,Emergency,Short,Translate
+788,¿Tienen descuentos?,es,en,Do you have any discounts?,Casual,Short,Clarify
+789,Puis-je essayer ceci ?,fr,es,¿Puedo probarme esto?,Formal,Short,Request
+790,¿Cómo se llama tu perro?,es,uk,Як звати вашого собаку?,Casual,Medium,Translate
+791,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Formal,Medium,Translate
+792,I want a cup of coffee.,en,uk,Я хочу чашку кави.,Formal,Medium,Inform
+793,Where is the library?,en,fr,Où est la bibliothèque ?,Technical,Short,Clarify
+794,Puis-je payer par carte ?,fr,en,Can I pay by card?,Travel,Medium,Request
+795,Combien de temps prendra la réparation ?,fr,en,How long will the repair take?,Travel,Medium,Translate
+796,Comment configurer le Wi-Fi ?,fr,en,How to set up Wi-Fi?,Emergency,Medium,Clarify
+797,Can I try this on?,en,es,¿Puedo probarme esto?,Technical,Medium,Inform
+798,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Casual,Short,Clarify
+799,Як далеко до аеропорту?,uk,fr,À quelle distance est l'aéroport ?,Emergency,Short,Request
+800,I'm cold.,en,es,Tengo frío.,Technical,Short,Translate
+801,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Casual,Short,Request
+802,¿Hay asientos libres en el restaurante?,es,uk,Чи є вільні місця в ресторані?,Emergency,Medium,Translate
+803,Where can I find a hotel?,en,es,¿Dónde puedo encontrar un hotel?,Casual,Medium,Translate
+804,Où puis-je acheter des billets pour un concert ?,fr,uk,Де я можу купити квитки на концерт?,Technical,Medium,Inform
+805,Can I try this on?,en,uk,Чи можу я спробувати це?,Travel,Medium,Request
+806,This is delicious!,en,es,¡Esto es delicioso!,Casual,Short,Translate
+807,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Formal,Short,Translate
+808,Où est la pharmacie la plus proche ?,fr,uk,Де найближча аптека?,Travel,Medium,Request
+809,Де я можу купити квитки на концерт?,uk,fr,Où puis-je acheter des billets pour un concert ?,Casual,Medium,Translate
+810,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Technical,Short,Request
+811,I need help!,en,uk,Мені потрібна допомога!,Casual,Short,Request
+812,Combien de temps prendra la réparation ?,fr,es,¿Cuánto tiempo tomará la reparación?,Travel,Medium,Request
+813,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Casual,Short,Request
+814,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Casual,Medium,Inform
+815,Avez-vous un menu végétarien ?,fr,uk,Чи є у вас вегетаріанське меню?,Travel,Medium,Inform
+816,Мені подобається це місце.,uk,es,Me gusta este lugar.,Emergency,Short,Translate
+817,Який час зараз?,uk,en,What time is it now?,Technical,Short,Translate
+818,Puis-je retourner cet article ?,fr,en,Can I return this item?,Emergency,Medium,Request
+819,Où est la pharmacie la plus proche ?,fr,es,¿Dónde está la farmacia más cercana?,Formal,Medium,Request
+820,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Travel,Medium,Inform
+821,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Travel,Short,Inform
+822,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Technical,Short,Request
+823,¿Dónde está la biblioteca?,es,en,Where is the library?,Technical,Short,Request
+824,Де мій телефон?,uk,en,Where is my phone?,Technical,Short,Translate
+825,¿Dónde puedo comprar entradas para un concierto?,es,uk,Де я можу купити квитки на концерт?,Casual,Medium,Translate
+826,"It's urgent, call a doctor!",en,fr,"C'est urgent, appelez un médecin !",Emergency,Medium,Request
+827,C'est délicieux !,fr,es,¡Esto es delicioso!,Casual,Short,Request
+828,Як звати вашого собаку?,uk,en,What is your dog's name?,Technical,Short,Request
+829,Necesito una traducción de este documento.,es,en,I need a translation of this document.,Casual,Medium,Request
+830,¿Cómo llegar a la estación de tren?,es,uk,Як дістатися до вокзалу?,Emergency,Medium,Translate
+831,I like this place.,en,es,Me gusta este lugar.,Emergency,Short,Inform
+832,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Emergency,Medium,Request
+833,"¡Es urgente, llame a un médico!",es,en,"It's urgent, call a doctor!",Casual,Medium,Request
+834,Скільки це коштує?,uk,fr,Combien ça coûte ?,Casual,Short,Translate
+835,Y a-t-il des places libres au restaurant ?,fr,en,Are there free seats in the restaurant?,Casual,Medium,Request
+836,Я загубив свої ключі.,uk,en,I lost my keys.,Formal,Short,Translate
+837,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Casual,Medium,Request
+838,Де мій телефон?,uk,es,¿Dónde está mi teléfono?,Travel,Short,Translate
+839,Як працює ця програма?,uk,fr,Comment fonctionne ce programme ?,Casual,Short,Translate
+840,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Emergency,Medium,Inform
+841,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Casual,Medium,Inform
+842,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Travel,Short,Request
+843,How far is the airport?,en,fr,À quelle distance est l'aéroport ?,Emergency,Medium,Request
+844,Чи можу я взяти це з собою?,uk,es,¿Puedo llevar esto para llevar?,Technical,Medium,Request
+845,What is your dog's name?,en,fr,Comment s'appelle votre chien ?,Travel,Medium,Request
+846,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Travel,Short,Translate
+847,What is today's exchange rate?,en,fr,Quel est le taux de change aujourd'hui ?,Emergency,Medium,Request
+848,¿Cuál es el tipo de cambio hoy?,es,uk,Який сьогодні курс валют?,Travel,Medium,Translate
+849,¿Dónde está mi teléfono?,es,fr,Où est mon téléphone ?,Formal,Short,Translate
+850,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Emergency,Short,Clarify
+851,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Travel,Short,Request
+852,Comment aller à la gare ?,fr,en,How to get to the train station?,Technical,Medium,Translate
+853,Мені потрібна допомога!,uk,en,I need help!,Casual,Short,Translate
+854,Can I return this item?,en,fr,Puis-je retourner cet article ?,Formal,Medium,Translate
+855,Merci pour votre attention.,fr,es,Gracias por su atención.,Travel,Short,Inform
+856,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Technical,Medium,Translate
+857,Où puis-je trouver un hôtel ?,fr,es,¿Dónde puedo encontrar un hotel?,Casual,Medium,Translate
+858,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Formal,Short,Inform
+859,Чи є у вас вегетаріанське меню?,uk,en,Do you have a vegetarian menu?,Formal,Medium,Translate
+860,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Casual,Medium,Translate
+861,Чи можу я замовити таксі?,uk,fr,Puis-je commander un taxi ?,Technical,Medium,Inform
+862,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Emergency,Medium,Translate
+863,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Formal,Medium,Request
+864,Puis-je retourner cet article ?,fr,es,¿Puedo devolver este artículo?,Formal,Medium,Translate
+865,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Travel,Medium,Request
+866,J'ai besoin d'une traduction de ce document.,fr,en,I need a translation of this document.,Casual,Medium,Request
+867,Скільки коштує ця книга?,uk,fr,Combien coûte ce livre ?,Formal,Short,Translate
+868,Combien de temps prendra la réparation ?,fr,en,How long will the repair take?,Casual,Medium,Translate
+869,Який у вас пароль Wi-Fi?,uk,fr,Quel est le mot de passe Wi-Fi ?,Technical,Medium,Translate
+870,Can I take this to go?,en,es,¿Puedo llevar esto para llevar?,Emergency,Medium,Translate
+871,Quel est le taux de change aujourd'hui ?,fr,uk,Який сьогодні курс валют?,Technical,Medium,Translate
+872,Do you have a vegetarian menu?,en,uk,Чи є у вас вегетаріанське меню?,Travel,Medium,Inform
+873,Що таке штучний інтелект?,uk,en,What is artificial intelligence?,Travel,Short,Translate
+874,Avez-vous des réductions ?,fr,es,¿Tienen descuentos?,Emergency,Short,Translate
+875,Quelle heure est-il maintenant ?,fr,en,What time is it now?,Travel,Medium,Inform
+876,Me gusta este lugar.,es,en,I like this place.,Casual,Short,Clarify
+877,Merci pour votre attention.,fr,uk,Дякую за вашу увагу.,Travel,Short,Inform
+878,Чи можу я спробувати це?,uk,en,Can I try this on?,Travel,Medium,Inform
+879,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Formal,Short,Request
+880,¿Cómo llegar a la estación de tren?,es,en,How to get to the train station?,Travel,Medium,Request
+881,¿A qué distancia está el aeropuerto?,es,en,How far is the airport?,Travel,Medium,Inform
+882,Який сьогодні курс валют?,uk,fr,Quel est le taux de change aujourd'hui ?,Formal,Short,Translate
+883,¿Hay asientos libres en el restaurante?,es,uk,Чи є вільні місця в ресторані?,Technical,Medium,Translate
+884,¿Qué es la inteligencia artificial?,es,uk,Що таке штучний інтелект?,Formal,Medium,Request
+885,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Technical,Short,Translate
+886,I need a translation of this document.,en,fr,J'ai besoin d'une traduction de ce document.,Travel,Medium,Request
+887,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Casual,Short,Request
+888,How much does it cost?,en,fr,Combien ça coûte ?,Technical,Medium,Request
+889,Мені потрібен переклад цього документа.,uk,en,I need a translation of this document.,Casual,Medium,Inform
+890,¿Qué es la inteligencia artificial?,es,uk,Що таке штучний інтелект?,Technical,Medium,Translate
+891,¿Dónde está la biblioteca?,es,uk,Де знаходиться бібліотека?,Technical,Short,Translate
+892,Puis-je essayer ceci ?,fr,es,¿Puedo probarme esto?,Technical,Short,Request
+893,¿Puedo probarme esto?,es,fr,Puis-je essayer ceci ?,Travel,Short,Request
+894,Où puis-je acheter des billets pour un concert ?,fr,en,Where can I buy concert tickets?,Formal,Medium,Translate
+895,How much is the ticket?,en,fr,Combien coûte le billet ?,Technical,Medium,Translate
+896,¿Qué hora es ahora?,es,fr,Quelle heure est-il maintenant ?,Technical,Short,Request
+897,Чи є вільні місця в ресторані?,uk,fr,Y a-t-il des places libres au restaurant ?,Casual,Medium,Inform
+898,Are there free seats in the restaurant?,en,fr,Y a-t-il des places libres au restaurant ?,Emergency,Medium,Translate
+899,¿Qué hora es ahora?,es,uk,Який час зараз?,Formal,Short,Clarify
+900,Qu'est-ce que l'intelligence artificielle ?,fr,en,What is artificial intelligence?,Casual,Medium,Inform
+901,Який час зараз?,uk,es,¿Qué hora es ahora?,Formal,Short,Inform
+902,Puis-je commander un taxi ?,fr,en,Can I order a taxi?,Technical,Medium,Translate
+903,Y a-t-il des places libres au restaurant ?,fr,uk,Чи є вільні місця в ресторані?,Formal,Medium,Translate
+904,¿Puedo devolver este artículo?,es,en,Can I return this item?,Casual,Short,Translate
+905,Який час зараз?,uk,en,What time is it now?,Travel,Short,Inform
+906,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Formal,Short,Inform
+907,Де знаходиться бібліотека?,uk,fr,Où est la bibliothèque ?,Travel,Short,Translate
+908,¡Necesito ayuda!,es,uk,Мені потрібна допомога!,Casual,Short,Request
+909,Où est mon téléphone ?,fr,es,¿Dónde está mi teléfono?,Formal,Medium,Clarify
+910,Чи є тут парковка?,uk,fr,Y a-t-il un parking ici ?,Emergency,Short,Clarify
+911,¿Dónde está mi teléfono?,es,fr,Où est mon téléphone ?,Formal,Short,Request
+912,Як зв’язатися з підтримкою?,uk,en,How do I contact support?,Emergency,Short,Inform
+913,How to set up Wi-Fi?,en,es,¿Cómo configurar Wi-Fi?,Casual,Medium,Translate
+914,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Technical,Short,Inform
+915,How much does it cost?,en,es,¿Cuánto cuesta?,Emergency,Medium,Translate
+916,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Casual,Medium,Translate
+917,¿Cómo funciona este programa?,es,fr,Comment fonctionne ce programme ?,Emergency,Short,Translate
+918,¿Hay estacionamiento aquí?,es,en,Is there parking here?,Travel,Short,Request
+919,¿Cómo llegar a la estación de tren?,es,uk,Як дістатися до вокзалу?,Technical,Medium,Request
+920,What is your dog's name?,en,uk,Як звати вашого собаку?,Casual,Medium,Inform
+921,Where is my phone?,en,uk,Де мій телефон?,Emergency,Short,Translate
+922,Perdí mis llaves.,es,uk,Я загубив свої ключі.,Emergency,Short,Request
+923,How much does it cost?,en,uk,Скільки це коштує?,Technical,Medium,Translate
+924,"C'est urgent, appelez un médecin !",fr,uk,"Це терміново, викличте лікаря!",Emergency,Medium,Request
+925,How long will the repair take?,en,fr,Combien de temps prendra la réparation ?,Travel,Medium,Request
+926,Мені подобається це місце.,uk,en,I like this place.,Emergency,Short,Translate
+927,¿Qué es la inteligencia artificial?,es,fr,Qu'est-ce que l'intelligence artificielle ?,Travel,Medium,Translate
+928,"Por favor, explícalo de nuevo.",es,uk,"Будь ласка, поясніть це ще раз.",Formal,Medium,Request
+929,Je veux une tasse de café.,fr,es,Quiero una taza de café.,Emergency,Medium,Inform
+930,Where is the library?,en,uk,Де знаходиться бібліотека?,Technical,Short,Translate
+931,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Casual,Short,Inform
+932,¿Puedo pedir un taxi?,es,uk,Чи можу я замовити таксі?,Emergency,Short,Request
+933,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Formal,Short,Request
+934,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Travel,Short,Translate
+935,"S'il vous plaît, expliquez encore.",fr,es,"Por favor, explícalo de nuevo.",Technical,Medium,Request
+936,Який у вас пароль Wi-Fi?,uk,en,What is your Wi-Fi password?,Travel,Medium,Inform
+937,Are there free seats in the restaurant?,en,uk,Чи є вільні місця в ресторані?,Emergency,Medium,Translate
+938,Puis-je commander un taxi ?,fr,es,¿Puedo pedir un taxi?,Casual,Medium,Request
+939,Combien coûte ce livre ?,fr,es,¿Cuánto cuesta este libro?,Travel,Medium,Translate
+940,Скільки коштує ця книга?,uk,es,¿Cuánto cuesta este libro?,Travel,Short,Request
+941,Мені холодно.,uk,fr,J'ai froid.,Formal,Short,Clarify
+942,What is your dog's name?,en,es,¿Cómo se llama tu perro?,Casual,Medium,Translate
+943,"¡Es urgente, llame a un médico!",es,en,"It's urgent, call a doctor!",Formal,Medium,Inform
+944,¿Hay asientos libres en el restaurante?,es,en,Are there free seats in the restaurant?,Travel,Medium,Translate
+945,Мені потрібна допомога!,uk,en,I need help!,Casual,Short,Translate
+946,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Technical,Medium,Inform
+947,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Travel,Medium,Inform
+948,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Emergency,Medium,Request
+949,Can I order a taxi?,en,es,¿Puedo pedir un taxi?,Travel,Medium,Request
+950,Як налаштувати Wi-Fi?,uk,fr,Comment configurer le Wi-Fi ?,Travel,Short,Request
+951,¿Cuánto cuesta?,es,fr,Combien ça coûte ?,Emergency,Short,Inform
+952,Мені потрібна допомога!,uk,en,I need help!,Technical,Short,Request
+953,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Technical,Short,Translate
+954,¿Qué hora es ahora?,es,fr,Quelle heure est-il maintenant ?,Formal,Short,Inform
+955,I need help!,en,es,¡Necesito ayuda!,Travel,Short,Inform
+956,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Technical,Medium,Translate
+957,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Emergency,Short,Clarify
+958,Puis-je commander un taxi ?,fr,en,Can I order a taxi?,Emergency,Medium,Request
+959,¿Dónde puedo encontrar un hotel?,es,uk,Де я можу знайти готель?,Casual,Medium,Clarify
+960,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Emergency,Short,Translate
+961,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Formal,Short,Request
+962,¿Cuál es el tipo de cambio hoy?,es,uk,Який сьогодні курс валют?,Emergency,Medium,Inform
+963,Я загубив свої ключі.,uk,en,I lost my keys.,Formal,Short,Translate
+964,¿Hay asientos libres en el restaurante?,es,en,Are there free seats in the restaurant?,Formal,Medium,Translate
+965,Чи йде дощ?,uk,en,Is it raining?,Casual,Short,Translate
+966,What is your Wi-Fi password?,en,fr,Quel est le mot de passe Wi-Fi ?,Casual,Medium,Inform
+967,J'ai froid.,fr,en,I'm cold.,Technical,Short,Translate
+968,Où puis-je acheter des billets pour un concert ?,fr,uk,Де я можу купити квитки на концерт?,Emergency,Medium,Clarify
+969,¿Tienen descuentos?,es,uk,Чи є у вас знижки?,Formal,Short,Translate
+970,Do you have any discounts?,en,es,¿Tienen descuentos?,Casual,Medium,Translate
+971,Де я можу знайти готель?,uk,fr,Où puis-je trouver un hôtel ?,Travel,Medium,Clarify
+972,À quelle distance est l'aéroport ?,fr,uk,Як далеко до аеропорту?,Technical,Medium,Clarify
+973,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Travel,Medium,Translate
+974,Я загубив свої ключі.,uk,es,Perdí mis llaves.,Emergency,Short,Request
+975,"Hello, how are you?",en,uk,"Привіт, як справи?",Travel,Short,Translate
+976,¿Hay asientos libres en el restaurante?,es,en,Are there free seats in the restaurant?,Formal,Medium,Translate
+977,"Будь ласка, поясніть це ще раз.",uk,fr,"S'il vous plaît, expliquez encore.",Formal,Medium,Request
+978,Comment fonctionne ce programme ?,fr,uk,Як працює ця програма?,Technical,Medium,Inform
+979,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Technical,Short,Translate
+980,Combien ça coûte ?,fr,en,How much does it cost?,Travel,Short,Request
+981,¿Cuánto cuesta este libro?,es,uk,Скільки коштує ця книга?,Formal,Short,Translate
+982,¿Cuál es el tipo de cambio hoy?,es,fr,Quel est le taux de change aujourd'hui ?,Casual,Medium,Request
+983,Where can I find a hotel?,en,uk,Де я можу знайти готель?,Technical,Medium,Request
+984,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Travel,Medium,Translate
+985,I need a translation of this document.,en,es,Necesito una traducción de este documento.,Travel,Medium,Request
+986,J'ai besoin d'aide !,fr,es,¡Necesito ayuda!,Casual,Short,Inform
+987,"Por favor, explícalo de nuevo.",es,en,Please explain it again.,Emergency,Medium,Translate
+988,How to get to the train station?,en,es,¿Cómo llegar a la estación de tren?,Emergency,Medium,Translate
+989,How to set up Wi-Fi?,en,fr,Comment configurer le Wi-Fi ?,Emergency,Medium,Inform
+990,Quel est le mot de passe Wi-Fi ?,fr,es,¿Cuál es la contraseña del Wi-Fi?,Travel,Medium,Request
+991,Скільки це коштує?,uk,es,¿Cuánto cuesta?,Casual,Short,Clarify
+992,How to set up Wi-Fi?,en,fr,Comment configurer le Wi-Fi ?,Travel,Medium,Request
+993,What is your dog's name?,en,fr,Comment s'appelle votre chien ?,Emergency,Medium,Translate
+994,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Technical,Medium,Request
+995,Gracias por su atención.,es,fr,Merci pour votre attention.,Casual,Short,Inform
+996,How far is the airport?,en,es,¿A qué distancia está el aeropuerto?,Technical,Medium,Translate
+997,¿Dónde puedo encontrar un hotel?,es,fr,Où puis-je trouver un hôtel ?,Emergency,Medium,Inform
+998,¿A qué distancia está el aeropuerto?,es,fr,À quelle distance est l'aéroport ?,Formal,Medium,Request
+999,Чи є у вас вегетаріанське меню?,uk,en,Do you have a vegetarian menu?,Travel,Medium,Translate
+1000,Can I try this on?,en,fr,Puis-je essayer ceci ?,Formal,Medium,Translate
+1001,I want a cup of coffee.,en,es,Quiero una taza de café.,Casual,Medium,Request
+1002,À quelle distance est l'aéroport ?,fr,es,¿A qué distancia está el aeropuerto?,Emergency,Medium,Translate
+1003,Чи є у вас знижки?,uk,es,¿Tienen descuentos?,Casual,Medium,Inform
+1004,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Casual,Short,Request
+1005,J'ai froid.,fr,uk,Мені холодно.,Technical,Short,Translate
+1006,Як далеко до аеропорту?,uk,en,How far is the airport?,Technical,Short,Translate
+1007,¿Cómo se llama tu perro?,es,uk,Як звати вашого собаку?,Casual,Medium,Request
+1008,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Technical,Short,Request
+1009,I like this place.,en,uk,Мені подобається це місце.,Formal,Short,Translate
+1010,Je veux une tasse de café.,fr,es,Quiero una taza de café.,Emergency,Medium,Translate
+1011,¿Cuál es la contraseña del Wi-Fi?,es,en,What is your Wi-Fi password?,Travel,Medium,Translate
+1012,Comment contacter le support ?,fr,en,How do I contact support?,Technical,Medium,Translate
+1013,Чи є у вас знижки?,uk,fr,Avez-vous des réductions ?,Technical,Medium,Request
+1014,How much is this book?,en,fr,Combien coûte ce livre ?,Formal,Medium,Inform
+1015,¿Puedo probarme esto?,es,fr,Puis-je essayer ceci ?,Formal,Short,Request
+1016,Gracias por su atención.,es,en,Thank you for your attention.,Casual,Short,Inform
+1017,How to get to the train station?,en,fr,Comment aller à la gare ?,Casual,Medium,Request
+1018,¿Dónde puedo encontrar un hotel?,es,en,Where can I find a hotel?,Emergency,Medium,Request
+1019,Дякую за вашу увагу.,uk,fr,Merci pour votre attention.,Emergency,Short,Clarify
+1020,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Emergency,Short,Request
+1021,¿Puedo probarme esto?,es,uk,Чи можу я спробувати це?,Casual,Short,Translate
+1022,Necesito una traducción de este documento.,es,uk,Мені потрібен переклад цього документа.,Travel,Medium,Request
+1023,How to set up Wi-Fi?,en,uk,Як налаштувати Wi-Fi?,Technical,Medium,Request
+1024,"Hello, how are you?",en,es,"¡Hola, cómo estás?",Emergency,Short,Request
+1025,What is your Wi-Fi password?,en,uk,Який у вас пароль Wi-Fi?,Technical,Medium,Translate
+1026,I need help!,en,es,¡Necesito ayuda!,Emergency,Short,Translate
+1027,¿Está lloviendo?,es,uk,Чи йде дощ?,Technical,Short,Clarify
+1028,Comment contacter le support ?,fr,uk,Як зв’язатися з підтримкою?,Travel,Medium,Inform
+1029,Thank you for your attention.,en,uk,Дякую за вашу увагу.,Technical,Medium,Request
+1030,Як довго триватиме ремонт?,uk,es,¿Cuánto tiempo tomará la reparación?,Travel,Short,Translate
+1031,Чи є тут парковка?,uk,es,¿Hay estacionamiento aquí?,Formal,Short,Request
+1032,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Emergency,Short,Request
+1033,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Formal,Short,Translate
+1034,C'est délicieux !,fr,es,¡Esto es delicioso!,Travel,Short,Inform
+1035,Puis-je emporter ceci ?,fr,es,¿Puedo llevar esto para llevar?,Technical,Short,Request
+1036,"Por favor, explícalo de nuevo.",es,en,Please explain it again.,Emergency,Medium,Request
+1037,I'm cold.,en,es,Tengo frío.,Technical,Short,Translate
+1038,Як налаштувати Wi-Fi?,uk,fr,Comment configurer le Wi-Fi ?,Emergency,Short,Translate
+1039,Чи можу я взяти це з собою?,uk,fr,Puis-je emporter ceci ?,Emergency,Medium,Translate
+1040,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Travel,Medium,Inform
+1041,¿Cómo se llama tu perro?,es,uk,Як звати вашого собаку?,Travel,Medium,Request
+1042,What is your Wi-Fi password?,en,es,¿Cuál es la contraseña del Wi-Fi?,Travel,Medium,Inform
+1043,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Technical,Medium,Translate
+1044,How much does it cost?,en,uk,Скільки це коштує?,Travel,Medium,Request
+1045,Comment s'appelle votre chien ?,fr,uk,Як звати вашого собаку?,Casual,Medium,Clarify
+1046,What is your Wi-Fi password?,en,uk,Який у вас пароль Wi-Fi?,Formal,Medium,Translate
+1047,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Travel,Medium,Request
+1048,Please explain it again.,en,uk,"Будь ласка, поясніть це ще раз.",Casual,Short,Clarify
+1049,Скільки коштує квиток?,uk,en,How much is the ticket?,Formal,Short,Translate
+1050,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Formal,Short,Request
+1051,Який час зараз?,uk,fr,Quelle heure est-il maintenant ?,Travel,Short,Translate
+1052,How to set up Wi-Fi?,en,fr,Comment configurer le Wi-Fi ?,Formal,Medium,Translate
+1053,How far is the airport?,en,fr,À quelle distance est l'aéroport ?,Emergency,Medium,Request
+1054,Comment connecter une imprimante à l'ordinateur ?,fr,es,¿Cómo conectar una impresora a la computadora?,Travel,Medium,Inform
+1055,Скільки це коштує?,uk,es,¿Cuánto cuesta?,Formal,Short,Translate
+1056,¿Cómo conectar una impresora a la computadora?,es,fr,Comment connecter une imprimante à l'ordinateur ?,Emergency,Medium,Translate
+1057,¡Necesito ayuda!,es,en,I need help!,Technical,Short,Inform
+1058,¿A qué distancia está el aeropuerto?,es,uk,Як далеко до аеропорту?,Travel,Medium,Request
+1059,Puis-je retourner cet article ?,fr,es,¿Puedo devolver este artículo?,Casual,Medium,Request
+1060,¿Tienen menú vegetariano?,es,en,Do you have a vegetarian menu?,Formal,Short,Translate
+1061,Where is the library?,en,es,¿Dónde está la biblioteca?,Formal,Short,Translate
+1062,Чи можу я взяти це з собою?,uk,es,¿Puedo llevar esto para llevar?,Emergency,Medium,Request
+1063,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Casual,Short,Inform
+1064,Where is the nearest pharmacy?,en,fr,Où est la pharmacie la plus proche ?,Technical,Medium,Inform
+1065,¿Qué hora es ahora?,es,uk,Який час зараз?,Travel,Short,Request
+1066,Quiero una taza de café.,es,uk,Я хочу чашку кави.,Travel,Medium,Request
+1067,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Formal,Medium,Translate
+1068,Скільки коштує квиток?,uk,en,How much is the ticket?,Emergency,Short,Inform
+1069,Me gusta este lugar.,es,fr,J'aime cet endroit.,Emergency,Short,Request
+1070,Який сьогодні курс валют?,uk,es,¿Cuál es el tipo de cambio hoy?,Formal,Short,Request
+1071,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Technical,Medium,Clarify
+1072,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Emergency,Medium,Clarify
+1073,Мені потрібен переклад цього документа.,uk,es,Necesito una traducción de este documento.,Travel,Medium,Translate
+1074,Comment connecter une imprimante à l'ordinateur ?,fr,en,How to connect a printer to the computer?,Emergency,Medium,Inform
+1075,Скільки коштує квиток?,uk,fr,Combien coûte le billet ?,Emergency,Short,Inform
+1076,Où puis-je trouver un hôtel ?,fr,en,Where can I find a hotel?,Travel,Medium,Translate
+1077,What is artificial intelligence?,en,fr,Qu'est-ce que l'intelligence artificielle ?,Casual,Short,Translate
+1078,¿Puedo probarme esto?,es,uk,Чи можу я спробувати це?,Travel,Short,Request
+1079,Où est la bibliothèque ?,fr,en,Where is the library?,Travel,Medium,Inform
+1080,"C'est urgent, appelez un médecin !",fr,en,"It's urgent, call a doctor!",Travel,Medium,Inform
+1081,C'est délicieux !,fr,uk,Це смачно!,Technical,Short,Clarify
+1082,¿Qué es la inteligencia artificial?,es,uk,Що таке штучний інтелект?,Casual,Medium,Inform
+1083,Як зв’язатися з підтримкою?,uk,es,¿Cómo contacto con soporte?,Formal,Short,Inform
+1084,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Formal,Short,Inform
+1085,How does this program work?,en,uk,Як працює ця програма?,Technical,Medium,Request
+1086,¿Tienen descuentos?,es,en,Do you have any discounts?,Technical,Short,Translate
+1087,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Emergency,Medium,Translate
+1088,¿Cómo llegar a la estación de tren?,es,en,How to get to the train station?,Technical,Medium,Inform
+1089,Comment contacter le support ?,fr,uk,Як зв’язатися з підтримкою?,Travel,Medium,Request
+1090,"¡Es urgente, llame a un médico!",es,uk,"Це терміново, викличте лікаря!",Emergency,Medium,Clarify
+1091,Це смачно!,uk,es,¡Esto es delicioso!,Emergency,Short,Request
+1092,¿Cómo llegar a la estación de tren?,es,uk,Як дістатися до вокзалу?,Casual,Medium,Request
+1093,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Emergency,Short,Request
+1094,Can I try this on?,en,uk,Чи можу я спробувати це?,Emergency,Medium,Translate
+1095,Чи можу я замовити таксі?,uk,fr,Puis-je commander un taxi ?,Casual,Medium,Request
+1096,¿Dónde está mi teléfono?,es,fr,Où est mon téléphone ?,Emergency,Short,Clarify
+1097,¿Dónde está la farmacia más cercana?,es,en,Where is the nearest pharmacy?,Formal,Medium,Request
+1098,Puis-je emporter ceci ?,fr,uk,Чи можу я взяти це з собою?,Travel,Short,Request
+1099,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Travel,Short,Translate
+1100,¿Dónde puedo comprar entradas para un concierto?,es,en,Where can I buy concert tickets?,Casual,Medium,Translate
+1101,"Bonjour, comment vas-tu ?",fr,uk,"Привіт, як справи?",Technical,Short,Translate
+1102,¿Puedo probarme esto?,es,fr,Puis-je essayer ceci ?,Technical,Short,Inform
+1103,Quel est le mot de passe Wi-Fi ?,fr,en,What is your Wi-Fi password?,Travel,Medium,Translate
+1104,Me gusta este lugar.,es,en,I like this place.,Technical,Short,Request
+1105,Чи є у вас вегетаріанське меню?,uk,en,Do you have a vegetarian menu?,Casual,Medium,Clarify
+1106,Як працює ця програма?,uk,fr,Comment fonctionne ce programme ?,Formal,Short,Inform
+1107,Де знаходиться бібліотека?,uk,es,¿Dónde está la biblioteca?,Travel,Short,Request
+1108,How much is the ticket?,en,uk,Скільки коштує квиток?,Formal,Medium,Translate
+1109,Merci pour votre attention.,fr,en,Thank you for your attention.,Emergency,Short,Inform
+1110,Thank you for your attention.,en,fr,Merci pour votre attention.,Technical,Medium,Translate
+1111,¡Necesito ayuda!,es,fr,J'ai besoin d'aide !,Technical,Short,Request
+1112,¿Dónde está la biblioteca?,es,en,Where is the library?,Casual,Short,Request
+1113,Comment configurer le Wi-Fi ?,fr,uk,Як налаштувати Wi-Fi?,Formal,Medium,Translate
+1114,J'ai froid.,fr,uk,Мені холодно.,Travel,Short,Translate
+1115,Comment contacter le support ?,fr,es,¿Cómo contacto con soporte?,Casual,Medium,Translate
+1116,¿Puedo pedir un taxi?,es,uk,Чи можу я замовити таксі?,Formal,Short,Translate
+1117,¿Tienen descuentos?,es,en,Do you have any discounts?,Casual,Short,Request
+1118,J'ai besoin d'aide !,fr,en,I need help!,Casual,Short,Translate
+1119,Merci pour votre attention.,fr,en,Thank you for your attention.,Formal,Short,Translate
+1120,Мені подобається це місце.,uk,en,I like this place.,Casual,Short,Translate
+1121,"Por favor, explícalo de nuevo.",es,en,Please explain it again.,Travel,Medium,Inform
+1122,How to set up Wi-Fi?,en,uk,Як налаштувати Wi-Fi?,Casual,Medium,Inform
+1123,¿Cuánto tiempo tomará la reparación?,es,uk,Як довго триватиме ремонт?,Emergency,Medium,Request
+1124,"It's urgent, call a doctor!",en,fr,"C'est urgent, appelez un médecin !",Emergency,Medium,Request
+1125,Do you have any discounts?,en,es,¿Tienen descuentos?,Travel,Medium,Request
+1126,Avez-vous des réductions ?,fr,uk,Чи є у вас знижки?,Technical,Short,Inform
+1127,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Emergency,Short,Translate
+1128,Як налаштувати Wi-Fi?,uk,es,¿Cómo configurar Wi-Fi?,Technical,Short,Request
+1129,Where is the library?,en,fr,Où est la bibliothèque ?,Emergency,Short,Request
+1130,Puis-je retourner cet article ?,fr,es,¿Puedo devolver este artículo?,Emergency,Medium,Request
+1131,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Emergency,Short,Request
+1132,¿Cuál es la contraseña del Wi-Fi?,es,uk,Який у вас пароль Wi-Fi?,Travel,Medium,Inform
+1133,¿A qué distancia está el aeropuerto?,es,uk,Як далеко до аеропорту?,Formal,Medium,Clarify
+1134,Чи є у вас вегетаріанське меню?,uk,fr,Avez-vous un menu végétarien ?,Casual,Medium,Request
+1135,¿Cuánto cuesta el boleto?,es,en,How much is the ticket?,Travel,Short,Clarify
+1136,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Emergency,Short,Clarify
+1137,How to set up Wi-Fi?,en,es,¿Cómo configurar Wi-Fi?,Travel,Medium,Request
+1138,¿Cuál es la contraseña del Wi-Fi?,es,uk,Який у вас пароль Wi-Fi?,Travel,Medium,Translate
+1139,¿Tienen menú vegetariano?,es,fr,Avez-vous un menu végétarien ?,Technical,Short,Request
+1140,Дякую за вашу увагу.,uk,es,Gracias por su atención.,Travel,Short,Request
+1141,How to connect a printer to the computer?,en,fr,Comment connecter une imprimante à l'ordinateur ?,Emergency,Medium,Clarify
+1142,Avez-vous des réductions ?,fr,en,Do you have any discounts?,Casual,Short,Translate
+1143,How to connect a printer to the computer?,en,fr,Comment connecter une imprimante à l'ordinateur ?,Travel,Medium,Translate
+1144,I need a translation of this document.,en,es,Necesito una traducción de este documento.,Emergency,Medium,Request
+1145,How much is the ticket?,en,es,¿Cuánto cuesta el boleto?,Travel,Medium,Inform
+1146,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Emergency,Short,Clarify
+1147,Can I take this to go?,en,uk,Чи можу я взяти це з собою?,Travel,Medium,Translate
+1148,Як далеко до аеропорту?,uk,en,How far is the airport?,Formal,Short,Inform
+1149,¿Tienen menú vegetariano?,es,uk,Чи є у вас вегетаріанське меню?,Travel,Short,Inform
+1150,Avez-vous des réductions ?,fr,en,Do you have any discounts?,Technical,Short,Request
+1151,¿Puedo probarme esto?,es,uk,Чи можу я спробувати це?,Emergency,Short,Translate
+1152,Як налаштувати Wi-Fi?,uk,en,How to set up Wi-Fi?,Technical,Short,Inform
+1153,"Будь ласка, поясніть це ще раз.",uk,en,Please explain it again.,Technical,Medium,Translate
+1154,Мені холодно.,uk,en,I'm cold.,Casual,Short,Inform
+1155,Combien ça coûte ?,fr,en,How much does it cost?,Casual,Short,Translate
+1156,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Casual,Short,Request
+1157,Чи можу я повернути цей товар?,uk,es,¿Puedo devolver este artículo?,Emergency,Medium,Inform
+1158,Comment connecter une imprimante à l'ordinateur ?,fr,uk,Як підключити принтер до комп'ютера?,Casual,Medium,Request
+1159,Can I take this to go?,en,uk,Чи можу я взяти це з собою?,Travel,Medium,Translate
+1160,Чи можу я взяти це з собою?,uk,en,Can I take this to go?,Technical,Medium,Request
+1161,Combien de temps prendra la réparation ?,fr,en,How long will the repair take?,Formal,Medium,Request
+1162,Що таке штучний інтелект?,uk,es,¿Qué es la inteligencia artificial?,Casual,Short,Translate
+1163,"Це терміново, викличте лікаря!",uk,en,"It's urgent, call a doctor!",Formal,Short,Translate
+1164,¿Hay estacionamiento aquí?,es,en,Is there parking here?,Technical,Short,Inform
+1165,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Technical,Medium,Request
+1166,Я загубив свої ключі.,uk,en,I lost my keys.,Technical,Short,Translate
+1167,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Formal,Short,Translate
+1168,I like this place.,en,fr,J'aime cet endroit.,Technical,Short,Translate
+1169,Який у вас пароль Wi-Fi?,uk,fr,Quel est le mot de passe Wi-Fi ?,Travel,Medium,Translate
+1170,How far is the airport?,en,es,¿A qué distancia está el aeropuerto?,Emergency,Medium,Translate
+1171,Де мій телефон?,uk,es,¿Dónde está mi teléfono?,Emergency,Short,Inform
+1172,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Technical,Short,Request
+1173,Thank you for your attention.,en,fr,Merci pour votre attention.,Formal,Medium,Request
+1174,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Casual,Medium,Translate
+1175,Чи можу я спробувати це?,uk,fr,Puis-je essayer ceci ?,Travel,Medium,Inform
+1176,Мені потрібен переклад цього документа.,uk,en,I need a translation of this document.,Emergency,Medium,Translate
+1177,¿Qué es la inteligencia artificial?,es,uk,Що таке штучний інтелект?,Casual,Medium,Translate
+1178,Avez-vous des réductions ?,fr,es,¿Tienen descuentos?,Technical,Short,Inform
+1179,Où puis-je trouver un hôtel ?,fr,uk,Де я можу знайти готель?,Emergency,Medium,Request
+1180,I'm cold.,en,fr,J'ai froid.,Technical,Short,Translate
+1181,¡Esto es delicioso!,es,fr,C'est délicieux !,Technical,Short,Translate
+1182,Чи можу я повернути цей товар?,uk,fr,Puis-je retourner cet article ?,Technical,Medium,Request
+1183,¿Cómo contacto con soporte?,es,en,How do I contact support?,Travel,Short,Request
+1184,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Travel,Short,Request
+1185,Combien coûte le billet ?,fr,uk,Скільки коштує квиток?,Travel,Medium,Translate
+1186,¿Cuánto cuesta este libro?,es,uk,Скільки коштує ця книга?,Travel,Short,Clarify
+1187,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Travel,Medium,Inform
+1188,Can I try this on?,en,uk,Чи можу я спробувати це?,Travel,Medium,Inform
+1189,Y a-t-il des places libres au restaurant ?,fr,es,¿Hay asientos libres en el restaurante?,Travel,Medium,Request
+1190,Is it raining?,en,es,¿Está lloviendo?,Casual,Short,Translate
+1191,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Travel,Short,Inform
+1192,Thank you for your attention.,en,fr,Merci pour votre attention.,Formal,Medium,Translate
+1193,¡Necesito ayuda!,es,en,I need help!,Technical,Short,Translate
+1194,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Travel,Short,Translate
+1195,Qu'est-ce que l'intelligence artificielle ?,fr,uk,Що таке штучний інтелект?,Technical,Medium,Request
+1196,Where is the nearest pharmacy?,en,fr,Où est la pharmacie la plus proche ?,Technical,Medium,Translate
+1197,¿Tienen descuentos?,es,uk,Чи є у вас знижки?,Technical,Short,Translate
+1198,¿Cómo configurar Wi-Fi?,es,fr,Comment configurer le Wi-Fi ?,Technical,Short,Request
+1199,Скільки це коштує?,uk,fr,Combien ça coûte ?,Emergency,Short,Inform
+1200,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Casual,Short,Request
+1201,À quelle distance est l'aéroport ?,fr,en,How far is the airport?,Travel,Medium,Translate
+1202,Merci pour votre attention.,fr,en,Thank you for your attention.,Casual,Short,Translate
+1203,Де знаходиться бібліотека?,uk,fr,Où est la bibliothèque ?,Technical,Short,Inform
+1204,¿Puedo devolver este artículo?,es,en,Can I return this item?,Formal,Short,Translate
+1205,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Formal,Short,Translate
+1206,I need a translation of this document.,en,es,Necesito una traducción de este documento.,Emergency,Medium,Inform
+1207,¿Puedo llevar esto para llevar?,es,en,Can I take this to go?,Formal,Medium,Request
+1208,Де я можу купити квитки на концерт?,uk,es,¿Dónde puedo comprar entradas para un concierto?,Technical,Medium,Inform
+1209,Я загубив свої ключі.,uk,en,I lost my keys.,Casual,Short,Translate
+1210,Скільки коштує квиток?,uk,es,¿Cuánto cuesta el boleto?,Travel,Short,Translate
+1211,¿Dónde está la farmacia más cercana?,es,en,Where is the nearest pharmacy?,Travel,Medium,Inform
+1212,Чи є тут парковка?,uk,en,Is there parking here?,Emergency,Short,Inform
+1213,Comment configurer le Wi-Fi ?,fr,es,¿Cómo configurar Wi-Fi?,Technical,Medium,Translate
+1214,"It's urgent, call a doctor!",en,uk,"Це терміново, викличте лікаря!",Formal,Medium,Clarify
+1215,Where is my phone?,en,uk,Де мій телефон?,Casual,Short,Request
+1216,¿Cómo funciona este programa?,es,uk,Як працює ця програма?,Travel,Short,Inform
+1217,Як звати вашого собаку?,uk,fr,Comment s'appelle votre chien ?,Travel,Short,Request
+1218,Where can I buy concert tickets?,en,fr,Où puis-je acheter des billets pour un concert ?,Emergency,Medium,Request
+1219,C'est délicieux !,fr,uk,Це смачно!,Casual,Short,Clarify
+1220,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Formal,Medium,Clarify
+1221,Puis-je essayer ceci ?,fr,en,Can I try this on?,Casual,Short,Translate
+1222,Where is my phone?,en,uk,Де мій телефон?,Casual,Short,Translate
+1223,¿Cómo conectar una impresora a la computadora?,es,uk,Як підключити принтер до комп'ютера?,Travel,Medium,Request
+1224,Мені потрібна допомога!,uk,fr,J'ai besoin d'aide !,Technical,Short,Inform
+1225,Де знаходиться бібліотека?,uk,en,Where is the library?,Formal,Short,Clarify
+1226,¿Hay estacionamiento aquí?,es,en,Is there parking here?,Travel,Short,Request
+1227,I like this place.,en,fr,J'aime cet endroit.,Travel,Short,Translate
+1228,"Це терміново, викличте лікаря!",uk,es,"¡Es urgente, llame a un médico!",Formal,Short,Request
+1229,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Technical,Medium,Translate
+1230,Як довго триватиме ремонт?,uk,es,¿Cuánto tiempo tomará la reparación?,Travel,Short,Clarify
+1231,Where is my phone?,en,uk,Де мій телефон?,Emergency,Short,Inform
+1232,Gracias por su atención.,es,fr,Merci pour votre attention.,Casual,Short,Clarify
+1233,Je veux une tasse de café.,fr,es,Quiero una taza de café.,Technical,Medium,Translate
+1234,Gracias por su atención.,es,en,Thank you for your attention.,Technical,Short,Translate
+1235,Comment fonctionne ce programme ?,fr,uk,Як працює ця програма?,Formal,Medium,Translate
+1236,Can I return this item?,en,fr,Puis-je retourner cet article ?,Technical,Medium,Clarify
+1237,Чи є вільні місця в ресторані?,uk,en,Are there free seats in the restaurant?,Emergency,Medium,Translate
+1238,Où est la bibliothèque ?,fr,es,¿Dónde está la biblioteca?,Emergency,Medium,Request
+1239,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Formal,Short,Inform
+1240,Combien coûte ce livre ?,fr,es,¿Cuánto cuesta este libro?,Casual,Medium,Request
+1241,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Formal,Short,Translate
+1242,Merci pour votre attention.,fr,es,Gracias por su atención.,Technical,Short,Translate
+1243,¿Cuánto cuesta el boleto?,es,uk,Скільки коштує квиток?,Travel,Short,Request
+1244,Чи можу я спробувати це?,uk,fr,Puis-je essayer ceci ?,Travel,Medium,Translate
+1245,¿Puedo pedir un taxi?,es,en,Can I order a taxi?,Travel,Short,Translate
+1246,What is artificial intelligence?,en,es,¿Qué es la inteligencia artificial?,Casual,Short,Inform
+1247,Are there free seats in the restaurant?,en,es,¿Hay asientos libres en el restaurante?,Technical,Medium,Translate
+1248,Який сьогодні курс валют?,uk,fr,Quel est le taux de change aujourd'hui ?,Formal,Short,Translate
+1249,Puis-je emporter ceci ?,fr,uk,Чи можу я взяти це з собою?,Technical,Short,Translate
+1250,À quelle distance est l'aéroport ?,fr,uk,Як далеко до аеропорту?,Formal,Medium,Inform
+1251,Où est la pharmacie la plus proche ?,fr,uk,Де найближча аптека?,Emergency,Medium,Clarify
+1252,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Technical,Short,Translate
+1253,¿Cómo se llama tu perro?,es,en,What is your dog's name?,Emergency,Medium,Clarify
+1254,"Por favor, explícalo de nuevo.",es,uk,"Будь ласка, поясніть це ще раз.",Formal,Medium,Request
+1255,Can I order a taxi?,en,es,¿Puedo pedir un taxi?,Casual,Medium,Translate
+1256,Quel est le mot de passe Wi-Fi ?,fr,uk,Який у вас пароль Wi-Fi?,Travel,Medium,Request
+1257,Thank you for your attention.,en,uk,Дякую за вашу увагу.,Formal,Medium,Request
+1258,¿Hay asientos libres en el restaurante?,es,en,Are there free seats in the restaurant?,Travel,Medium,Inform
+1259,"¡Hola, cómo estás?",es,fr,"Bonjour, comment vas-tu ?",Technical,Short,Clarify
+1260,Скільки це коштує?,uk,fr,Combien ça coûte ?,Formal,Short,Clarify
+1261,Please explain it again.,en,fr,"S'il vous plaît, expliquez encore.",Formal,Short,Translate
+1262,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Formal,Short,Request
+1263,Where is the nearest pharmacy?,en,es,¿Dónde está la farmacia más cercana?,Casual,Medium,Request
+1264,Comment configurer le Wi-Fi ?,fr,uk,Як налаштувати Wi-Fi?,Casual,Medium,Request
+1265,"Будь ласка, поясніть це ще раз.",uk,fr,"S'il vous plaît, expliquez encore.",Emergency,Medium,Request
+1266,I like this place.,en,fr,J'aime cet endroit.,Travel,Short,Request
+1267,¿Cuánto cuesta el boleto?,es,fr,Combien coûte le billet ?,Casual,Short,Clarify
+1268,Puis-je essayer ceci ?,fr,uk,Чи можу я спробувати це?,Formal,Short,Translate
+1269,I'm cold.,en,fr,J'ai froid.,Technical,Short,Request
+1270,Can I try this on?,en,fr,Puis-je essayer ceci ?,Technical,Medium,Translate
+1271,Où est mon téléphone ?,fr,en,Where is my phone?,Travel,Medium,Translate
+1272,Quelle heure est-il maintenant ?,fr,es,¿Qué hora es ahora?,Travel,Medium,Translate
+1273,Can I return this item?,en,uk,Чи можу я повернути цей товар?,Emergency,Medium,Request
+1274,¿Está lloviendo?,es,en,Is it raining?,Casual,Short,Inform
+1275,Is it raining?,en,fr,Est-ce qu'il pleut ?,Emergency,Short,Translate
+1276,Gracias por su atención.,es,en,Thank you for your attention.,Formal,Short,Translate
+1277,Puis-je emporter ceci ?,fr,uk,Чи можу я взяти це з собою?,Technical,Short,Inform
+1278,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Technical,Short,Inform
+1279,I like this place.,en,fr,J'aime cet endroit.,Casual,Short,Inform
+1280,Où est mon téléphone ?,fr,uk,Де мій телефон?,Technical,Medium,Request
+1281,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Casual,Medium,Inform
+1282,Який час зараз?,uk,en,What time is it now?,Formal,Short,Translate
+1283,This is delicious!,en,es,¡Esto es delicioso!,Formal,Short,Request
+1284,¿Cómo se llama tu perro?,es,fr,Comment s'appelle votre chien ?,Travel,Medium,Translate
+1285,Quelle heure est-il maintenant ?,fr,es,¿Qué hora es ahora?,Formal,Medium,Inform
+1286,"Привіт, як справи?",uk,en,"Hello, how are you?",Casual,Short,Translate
+1287,"¡Es urgente, llame a un médico!",es,en,"It's urgent, call a doctor!",Travel,Medium,Translate
+1288,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Emergency,Medium,Translate
+1289,J'ai froid.,fr,en,I'm cold.,Casual,Short,Translate
+1290,Як підключити принтер до комп'ютера?,uk,en,How to connect a printer to the computer?,Travel,Medium,Request
+1291,Combien de temps prendra la réparation ?,fr,uk,Як довго триватиме ремонт?,Formal,Medium,Translate
+1292,Як підключити принтер до комп'ютера?,uk,es,¿Cómo conectar una impresora a la computadora?,Travel,Medium,Request
+1293,Quel est le mot de passe Wi-Fi ?,fr,en,What is your Wi-Fi password?,Technical,Medium,Translate
+1294,Я загубив свої ключі.,uk,fr,J'ai perdu mes clés.,Emergency,Short,Request
+1295,How far is the airport?,en,es,¿A qué distancia está el aeropuerto?,Casual,Medium,Translate
+1296,¿Cómo contacto con soporte?,es,en,How do I contact support?,Emergency,Short,Request
+1297,"¡Hola, cómo estás?",es,fr,"Bonjour, comment vas-tu ?",Casual,Short,Inform
+1298,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Casual,Short,Clarify
+1299,¿Dónde puedo comprar entradas para un concierto?,es,en,Where can I buy concert tickets?,Casual,Medium,Clarify
+1300,Gracias por su atención.,es,uk,Дякую за вашу увагу.,Casual,Short,Request
+1301,Де найближча аптека?,uk,fr,Où est la pharmacie la plus proche ?,Formal,Short,Inform
+1302,What is artificial intelligence?,en,uk,Що таке штучний інтелект?,Formal,Short,Translate
+1303,Як довго триватиме ремонт?,uk,es,¿Cuánto tiempo tomará la reparación?,Casual,Short,Inform
+1304,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Casual,Short,Translate
+1305,Où est la pharmacie la plus proche ?,fr,es,¿Dónde está la farmacia más cercana?,Emergency,Medium,Translate
+1306,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Emergency,Medium,Request
+1307,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Emergency,Medium,Translate
+1308,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Formal,Short,Translate
+1309,Чи можу я оплатити карткою?,uk,fr,Puis-je payer par carte ?,Formal,Medium,Translate
+1310,"Будь ласка, поясніть це ще раз.",uk,fr,"S'il vous plaît, expliquez encore.",Casual,Medium,Request
+1311,¿Qué hora es ahora?,es,fr,Quelle heure est-il maintenant ?,Formal,Short,Request
+1312,Where is the library?,en,fr,Où est la bibliothèque ?,Formal,Short,Translate
+1313,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Formal,Short,Inform
+1314,Мені потрібен переклад цього документа.,uk,en,I need a translation of this document.,Technical,Medium,Translate
+1315,I need help!,en,es,¡Necesito ayuda!,Technical,Short,Request
+1316,"Будь ласка, поясніть це ще раз.",uk,fr,"S'il vous plaît, expliquez encore.",Formal,Medium,Translate
+1317,What is today's exchange rate?,en,uk,Який сьогодні курс валют?,Formal,Medium,Request
+1318,Can I try this on?,en,es,¿Puedo probarme esto?,Casual,Medium,Request
+1319,Мені подобається це місце.,uk,fr,J'aime cet endroit.,Technical,Short,Translate
+1320,J'ai froid.,fr,en,I'm cold.,Technical,Short,Inform
+1321,Quiero una taza de café.,es,uk,Я хочу чашку кави.,Travel,Medium,Request
+1322,¿Tienen descuentos?,es,uk,Чи є у вас знижки?,Formal,Short,Translate
+1323,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Technical,Short,Inform
+1324,Where is my phone?,en,uk,Де мій телефон?,Emergency,Short,Translate
+1325,"Це терміново, викличте лікаря!",uk,fr,"C'est urgent, appelez un médecin !",Emergency,Short,Request
+1326,How to set up Wi-Fi?,en,fr,Comment configurer le Wi-Fi ?,Formal,Medium,Inform
+1327,I need help!,en,fr,J'ai besoin d'aide !,Casual,Short,Inform
+1328,¿Qué hora es ahora?,es,en,What time is it now?,Emergency,Short,Translate
+1329,Quiero una taza de café.,es,fr,Je veux une tasse de café.,Travel,Medium,Request
+1330,¿Cuál es la contraseña del Wi-Fi?,es,uk,Який у вас пароль Wi-Fi?,Emergency,Medium,Request
+1331,Quiero una taza de café.,es,en,I want a cup of coffee.,Emergency,Medium,Request
+1332,Avez-vous des réductions ?,fr,uk,Чи є у вас знижки?,Technical,Short,Translate
+1333,Який сьогодні курс валют?,uk,en,What is today's exchange rate?,Casual,Short,Request
+1334,Necesito una traducción de este documento.,es,fr,J'ai besoin d'une traduction de ce document.,Travel,Medium,Request
+1335,This is delicious!,en,es,¡Esto es delicioso!,Travel,Short,Translate
+1336,Est-ce qu'il pleut ?,fr,es,¿Está lloviendo?,Formal,Short,Translate
+1337,Comment configurer le Wi-Fi ?,fr,en,How to set up Wi-Fi?,Emergency,Medium,Translate
+1338,J'ai besoin d'une traduction de ce document.,fr,uk,Мені потрібен переклад цього документа.,Casual,Medium,Translate
+1339,¿Dónde está la biblioteca?,es,en,Where is the library?,Technical,Short,Request
+1340,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Emergency,Medium,Translate
+1341,Скільки коштує ця книга?,uk,fr,Combien coûte ce livre ?,Technical,Short,Translate
+1342,¡Necesito ayuda!,es,uk,Мені потрібна допомога!,Travel,Short,Inform
+1343,Perdí mis llaves.,es,fr,J'ai perdu mes clés.,Technical,Short,Inform
+1344,J'ai besoin d'aide !,fr,uk,Мені потрібна допомога!,Casual,Short,Request
+1345,Please explain it again.,en,es,"Por favor, explícalo de nuevo.",Travel,Short,Request
+1346,Мені холодно.,uk,en,I'm cold.,Travel,Short,Clarify
+1347,How do I contact support?,en,fr,Comment contacter le support ?,Travel,Medium,Request
+1348,Where is my phone?,en,fr,Où est mon téléphone ?,Emergency,Short,Translate
+1349,Do you have a vegetarian menu?,en,fr,Avez-vous un menu végétarien ?,Travel,Medium,Request
+1350,How far is the airport?,en,uk,Як далеко до аеропорту?,Casual,Medium,Request
+1351,Necesito una traducción de este documento.,es,uk,Мені потрібен переклад цього документа.,Emergency,Medium,Translate
+1352,What is today's exchange rate?,en,es,¿Cuál es el tipo de cambio hoy?,Technical,Medium,Clarify
+1353,Thank you for your attention.,en,uk,Дякую за вашу увагу.,Travel,Medium,Translate
+1354,Where can I find a hotel?,en,uk,Де я можу знайти готель?,Formal,Medium,Translate
+1355,What is your Wi-Fi password?,en,uk,Який у вас пароль Wi-Fi?,Emergency,Medium,Translate
+1356,Can I take this to go?,en,es,¿Puedo llevar esto para llevar?,Emergency,Medium,Inform
+1357,Як працює ця програма?,uk,en,How does this program work?,Travel,Short,Clarify
+1358,Чи є у вас знижки?,uk,en,Do you have any discounts?,Casual,Medium,Translate
+1359,Чи є у вас знижки?,uk,fr,Avez-vous des réductions ?,Technical,Medium,Translate
+1360,What is your Wi-Fi password?,en,fr,Quel est le mot de passe Wi-Fi ?,Technical,Medium,Inform
+1361,Чи можу я повернути цей товар?,uk,es,¿Puedo devolver este artículo?,Technical,Medium,Translate
+1362,Quel est le taux de change aujourd'hui ?,fr,es,¿Cuál es el tipo de cambio hoy?,Emergency,Medium,Translate
+1363,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Formal,Medium,Request
+1364,¿Cómo conectar una impresora a la computadora?,es,fr,Comment connecter une imprimante à l'ordinateur ?,Casual,Medium,Inform
+1365,Скільки коштує квиток?,uk,en,How much is the ticket?,Formal,Short,Inform
+1366,Я хочу чашку кави.,uk,en,I want a cup of coffee.,Technical,Short,Request
+1367,Puis-je payer par carte ?,fr,es,¿Puedo pagar con tarjeta?,Casual,Medium,Request
+1368,Do you have any discounts?,en,uk,Чи є у вас знижки?,Technical,Medium,Request
+1369,I lost my keys.,en,es,Perdí mis llaves.,Emergency,Short,Request
+1370,¿Puedo devolver este artículo?,es,uk,Чи можу я повернути цей товар?,Casual,Short,Translate
+1371,Quelle heure est-il maintenant ?,fr,en,What time is it now?,Travel,Medium,Request
+1372,Puis-je retourner cet article ?,fr,en,Can I return this item?,Casual,Medium,Translate
+1373,Чи є у вас знижки?,uk,es,¿Tienen descuentos?,Travel,Medium,Request
+1374,Як зв’язатися з підтримкою?,uk,fr,Comment contacter le support ?,Emergency,Short,Inform
+1375,Necesito una traducción de este documento.,es,en,I need a translation of this document.,Emergency,Medium,Inform
+1376,Де найближча аптека?,uk,fr,Où est la pharmacie la plus proche ?,Technical,Short,Request
+1377,Me gusta este lugar.,es,uk,Мені подобається це місце.,Emergency,Short,Inform
+1378,Де я можу знайти готель?,uk,en,Where can I find a hotel?,Casual,Medium,Request
+1379,"Привіт, як справи?",uk,es,"¡Hola, cómo estás?",Emergency,Short,Request
+1380,Як дістатися до вокзалу?,uk,fr,Comment aller à la gare ?,Emergency,Short,Translate
+1381,Мені потрібна допомога!,uk,es,¡Necesito ayuda!,Emergency,Short,Inform
+1382,Puis-je retourner cet article ?,fr,en,Can I return this item?,Emergency,Medium,Inform
+1383,Y a-t-il des places libres au restaurant ?,fr,uk,Чи є вільні місця в ресторані?,Technical,Medium,Translate
+1384,Де я можу знайти готель?,uk,fr,Où puis-je trouver un hôtel ?,Technical,Medium,Inform
+1385,Is there parking here?,en,fr,Y a-t-il un parking ici ?,Emergency,Short,Request
+1386,"It's urgent, call a doctor!",en,uk,"Це терміново, викличте лікаря!",Formal,Medium,Translate
+1387,Чи йде дощ?,uk,fr,Est-ce qu'il pleut ?,Technical,Short,Translate
+1388,Quel est le taux de change aujourd'hui ?,fr,uk,Який сьогодні курс валют?,Formal,Medium,Request
+1389,Where is the nearest pharmacy?,en,es,¿Dónde está la farmacia más cercana?,Formal,Medium,Translate
+1390,How do I contact support?,en,es,¿Cómo contacto con soporte?,Technical,Medium,Request
+1391,Чи йде дощ?,uk,en,Is it raining?,Emergency,Short,Translate
+1392,¿Cómo funciona este programa?,es,en,How does this program work?,Formal,Short,Translate
+1393,Я хочу чашку кави.,uk,es,Quiero una taza de café.,Formal,Short,Clarify
+1394,Чи є у вас вегетаріанське меню?,uk,en,Do you have a vegetarian menu?,Formal,Medium,Translate
+1395,¿Hay estacionamiento aquí?,es,en,Is there parking here?,Travel,Short,Translate
+1396,"S'il vous plaît, expliquez encore.",fr,en,Please explain it again.,Travel,Medium,Request
+1397,Дякую за вашу увагу.,uk,es,Gracias por su atención.,Formal,Short,Request
+1398,Quiero una taza de café.,es,uk,Я хочу чашку кави.,Travel,Medium,Translate
+1399,Де мій телефон?,uk,fr,Où est mon téléphone ?,Casual,Short,Translate
+1400,Can I return this item?,en,es,¿Puedo devolver este artículo?,Technical,Medium,Translate
+1401,Où est la pharmacie la plus proche ?,fr,uk,Де найближча аптека?,Technical,Medium,Request
+1402,Чи йде дощ?,uk,en,Is it raining?,Technical,Short,Inform
+1403,Do you have a vegetarian menu?,en,fr,Avez-vous un menu végétarien ?,Emergency,Medium,Request
+1404,Де найближча аптека?,uk,fr,Où est la pharmacie la plus proche ?,Technical,Short,Translate
+1405,Me gusta este lugar.,es,fr,J'aime cet endroit.,Technical,Short,Translate
+1406,Це смачно!,uk,fr,C'est délicieux !,Emergency,Short,Inform
+1407,Where can I find a hotel?,en,fr,Où puis-je trouver un hôtel ?,Technical,Medium,Inform
+1408,¿Hay estacionamiento aquí?,es,uk,Чи є тут парковка?,Technical,Short,Inform
+1409,¿Cuál es el tipo de cambio hoy?,es,fr,Quel est le taux de change aujourd'hui ?,Emergency,Medium,Translate
+1410,C'est délicieux !,fr,uk,Це смачно!,Technical,Short,Request
+1411,How do I contact support?,en,es,¿Cómo contacto con soporte?,Travel,Medium,Translate
+1412,Comment fonctionne ce programme ?,fr,es,¿Cómo funciona este programa?,Travel,Medium,Translate
+1413,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Travel,Short,Request
+1414,Combien ça coûte ?,fr,es,¿Cuánto cuesta?,Technical,Short,Clarify
+1415,Чи йде дощ?,uk,en,Is it raining?,Formal,Short,Inform
+1416,J'aime cet endroit.,fr,en,I like this place.,Travel,Short,Clarify
+1417,"It's urgent, call a doctor!",en,es,"¡Es urgente, llame a un médico!",Technical,Medium,Request
+1418,¿Cuánto cuesta?,es,uk,Скільки це коштує?,Formal,Short,Request
+1419,How much does it cost?,en,uk,Скільки це коштує?,Formal,Medium,Inform
+1420,Is there parking here?,en,fr,Y a-t-il un parking ici ?,Formal,Short,Inform
+1421,Quelle heure est-il maintenant ?,fr,uk,Який час зараз?,Travel,Medium,Translate
+1422,¿Dónde está la biblioteca?,es,fr,Où est la bibliothèque ?,Travel,Short,Inform
+1423,I need a translation of this document.,en,uk,Мені потрібен переклад цього документа.,Emergency,Medium,Translate
+1424,Combien coûte le billet ?,fr,es,¿Cuánto cuesta el boleto?,Formal,Medium,Request
+1425,¿Cuál es el tipo de cambio hoy?,es,fr,Quel est le taux de change aujourd'hui ?,Formal,Medium,Inform
+1426,J'ai perdu mes clés.,fr,en,I lost my keys.,Technical,Short,Translate
+1427,Can I take this to go?,en,fr,Puis-je emporter ceci ?,Technical,Medium,Clarify
+1428,Як працює ця програма?,uk,en,How does this program work?,Formal,Short,Translate
+1429,Comment fonctionne ce programme ?,fr,uk,Як працює ця програма?,Emergency,Medium,Translate
+1430,Як працює ця програма?,uk,en,How does this program work?,Formal,Short,Translate
+1431,¿Cuánto cuesta este libro?,es,fr,Combien coûte ce livre ?,Casual,Short,Inform
+1432,Чи можу я повернути цей товар?,uk,fr,Puis-je retourner cet article ?,Emergency,Medium,Translate
+1433,Où puis-je trouver un hôtel ?,fr,es,¿Dónde puedo encontrar un hotel?,Emergency,Medium,Translate
+1434,¿Cómo conectar una impresora a la computadora?,es,uk,Як підключити принтер до комп'ютера?,Formal,Medium,Inform
+1435,What is your Wi-Fi password?,en,uk,Який у вас пароль Wi-Fi?,Travel,Medium,Translate
+1436,"S'il vous plaît, expliquez encore.",fr,uk,"Будь ласка, поясніть це ще раз.",Formal,Medium,Request
+1437,¿Puedo pagar con tarjeta?,es,fr,Puis-je payer par carte ?,Technical,Short,Clarify
+1438,Où puis-je acheter des billets pour un concert ?,fr,es,¿Dónde puedo comprar entradas para un concierto?,Emergency,Medium,Clarify
+1439,Avez-vous un menu végétarien ?,fr,es,¿Tienen menú vegetariano?,Technical,Medium,Request
+1440,¿Cómo se llama tu perro?,es,uk,Як звати вашого собаку?,Emergency,Medium,Request
+1441,Як зв’язатися з підтримкою?,uk,en,How do I contact support?,Technical,Short,Clarify
+1442,Combien coûte le billet ?,fr,uk,Скільки коштує квиток?,Casual,Medium,Request
+1443,¿Dónde puedo comprar entradas para un concierto?,es,en,Where can I buy concert tickets?,Travel,Medium,Translate
+1444,Як зв’язатися з підтримкою?,uk,es,¿Cómo contacto con soporte?,Emergency,Short,Request
+1445,"Це терміново, викличте лікаря!",uk,es,"¡Es urgente, llame a un médico!",Technical,Short,Translate
+1446,I want a cup of coffee.,en,es,Quiero una taza de café.,Formal,Medium,Clarify
+1447,¿Cómo funciona este programa?,es,fr,Comment fonctionne ce programme ?,Emergency,Short,Translate
+1448,Чи йде дощ?,uk,en,Is it raining?,Casual,Short,Translate
+1449,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Formal,Medium,Translate
+1450,¿Cuánto cuesta este libro?,es,uk,Скільки коштує ця книга?,Travel,Short,Translate
+1451,"Bonjour, comment vas-tu ?",fr,en,"Hello, how are you?",Travel,Short,Request
+1452,Thank you for your attention.,en,es,Gracias por su atención.,Casual,Medium,Request
+1453,¿Puedo pagar con tarjeta?,es,uk,Чи можу я оплатити карткою?,Travel,Short,Translate
+1454,Puis-je emporter ceci ?,fr,en,Can I take this to go?,Formal,Short,Request
+1455,¿Puedo llevar esto para llevar?,es,en,Can I take this to go?,Formal,Medium,Translate
+1456,Comment fonctionne ce programme ?,fr,uk,Як працює ця програма?,Travel,Medium,Clarify
+1457,¿Dónde está la biblioteca?,es,en,Where is the library?,Formal,Short,Request
+1458,What is today's exchange rate?,en,fr,Quel est le taux de change aujourd'hui ?,Casual,Medium,Translate
+1459,¿Cuánto cuesta el boleto?,es,en,How much is the ticket?,Casual,Short,Request
+1460,How much does it cost?,en,uk,Скільки це коштує?,Technical,Medium,Clarify
+1461,Як звати вашого собаку?,uk,en,What is your dog's name?,Emergency,Short,Request
+1462,How far is the airport?,en,uk,Як далеко до аеропорту?,Casual,Medium,Request
+1463,"C'est urgent, appelez un médecin !",fr,uk,"Це терміново, викличте лікаря!",Travel,Medium,Translate
+1464,¿Puedo probarme esto?,es,en,Can I try this on?,Emergency,Short,Request
+1465,What time is it now?,en,uk,Який час зараз?,Formal,Medium,Translate
+1466,¿Hay estacionamiento aquí?,es,fr,Y a-t-il un parking ici ?,Emergency,Short,Request
+1467,Où puis-je trouver un hôtel ?,fr,es,¿Dónde puedo encontrar un hotel?,Formal,Medium,Translate
+1468,J'ai besoin d'une traduction de ce document.,fr,en,I need a translation of this document.,Emergency,Medium,Inform
+1469,Can I order a taxi?,en,fr,Puis-je commander un taxi ?,Technical,Medium,Translate
+1470,Where can I buy concert tickets?,en,fr,Où puis-je acheter des billets pour un concert ?,Formal,Medium,Translate
+1471,¿Cómo configurar Wi-Fi?,es,fr,Comment configurer le Wi-Fi ?,Formal,Short,Translate
+1472,Мені потрібна допомога!,uk,fr,J'ai besoin d'aide !,Emergency,Short,Inform
+1473,Мені потрібен переклад цього документа.,uk,fr,J'ai besoin d'une traduction de ce document.,Casual,Medium,Request
+1474,¿Puedo pedir un taxi?,es,fr,Puis-je commander un taxi ?,Technical,Short,Inform
+1475,¿Cuál es el tipo de cambio hoy?,es,en,What is today's exchange rate?,Formal,Medium,Request
+1476,Як звати вашого собаку?,uk,en,What is your dog's name?,Casual,Short,Inform
+1477,How to get to the train station?,en,es,¿Cómo llegar a la estación de tren?,Travel,Medium,Translate
+1478,I want a cup of coffee.,en,fr,Je veux une tasse de café.,Emergency,Medium,Request
+1479,"It's urgent, call a doctor!",en,es,"¡Es urgente, llame a un médico!",Technical,Medium,Request
+1480,"Привіт, як справи?",uk,fr,"Bonjour, comment vas-tu ?",Casual,Short,Request
+1481,J'ai perdu mes clés.,fr,uk,Я загубив свої ключі.,Technical,Short,Request
+1482,How to connect a printer to the computer?,en,uk,Як підключити принтер до комп'ютера?,Technical,Medium,Request
+1483,Please explain it again.,en,es,"Por favor, explícalo de nuevo.",Formal,Short,Clarify
+1484,Quelle heure est-il maintenant ?,fr,es,¿Qué hora es ahora?,Technical,Medium,Inform
+1485,J'aime cet endroit.,fr,uk,Мені подобається це місце.,Casual,Short,Inform
+1486,Як довго триватиме ремонт?,uk,fr,Combien de temps prendra la réparation ?,Emergency,Short,Clarify
+1487,"Привіт, як справи?",uk,en,"Hello, how are you?",Casual,Short,Translate
+1488,"C'est urgent, appelez un médecin !",fr,uk,"Це терміново, викличте лікаря!",Casual,Medium,Translate
+1489,Чи йде дощ?,uk,en,Is it raining?,Technical,Short,Request
+1490,Comment s'appelle votre chien ?,fr,es,¿Cómo se llama tu perro?,Emergency,Medium,Clarify
+1491,Y a-t-il un parking ici ?,fr,es,¿Hay estacionamiento aquí?,Travel,Medium,Translate
+1492,Я загубив свої ключі.,uk,en,I lost my keys.,Emergency,Short,Translate
+1493,À quelle distance est l'aéroport ?,fr,en,How far is the airport?,Casual,Medium,Translate
+1494,How much does it cost?,en,uk,Скільки це коштує?,Travel,Medium,Translate
+1495,Gracias por su atención.,es,uk,Дякую за вашу увагу.,Emergency,Short,Request
+1496,Puis-je payer par carte ?,fr,en,Can I pay by card?,Emergency,Medium,Translate
+1497,"Будь ласка, поясніть це ще раз.",uk,es,"Por favor, explícalo de nuevo.",Formal,Medium,Request
+1498,Чи є тут парковка?,uk,es,¿Hay estacionamiento aquí?,Formal,Short,Translate
+1499,Де знаходиться бібліотека?,uk,fr,Où est la bibliothèque ?,Casual,Short,Translate
+1500,¿Dónde está la farmacia más cercana?,es,fr,Où est la pharmacie la plus proche ?,Travel,Medium,Translate
