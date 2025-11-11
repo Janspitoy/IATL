@@ -1,0 +1,2 @@
+num_communities,total_nodes_in_top5000,min_community_size,max_community_size,mean_community_size,median_community_size,gini_community_sizes,pagerank_top200_mean,pagerank_top200_max,pagerank_top200_min
+5000,234032,3,1612,46.8064,33.0,0.5486783397142272,0.00011966713219635691,0.0007798842946113,5.578604713269233e-05
